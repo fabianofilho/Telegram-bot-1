@@ -87,7 +87,7 @@ app.all('/rest', function (req, res) {
 		cmd = ""
 		switch(command[0]){
 			case "/status":
-				cmd = "ps u"
+				cmd = "ps aux"
 			break
 
 			case "/log":
@@ -150,6 +150,7 @@ app.all('/rest', function (req, res) {
 			break
 		}
 
+    chat_id = req.body.message.chat.id
 		if(cmd != "")
 			exec(cmd,function(error, stdout, stderr) {	
 				msg = stdout
@@ -158,8 +159,8 @@ app.all('/rest', function (req, res) {
 					console.log(stderr)
 					msg = stderr
 				}
-
-				telegramAPI.sendLongMessage(servicesAPI.sendMessage,msg,req.body.message.chat.id,interface.show)
+    msg = msg.replace(/#/g, '-');
+			telegramAPI.sendLongMessage(servicesAPI.sendMessage,msg,chat_id,interface.show)
 			})
 		
 
@@ -173,8 +174,8 @@ app.all('/rest', function (req, res) {
 			data = [{key:"text=",value:messages.hello.replace("{name}",req.body.message.from.first_name)},{key:"chat_id=",value:req.body.message.chat.id}]
 			telegramAPI.consumeAPI(servicesAPI.sendMessage,data,interface.show);
 
-			data_file = [{key:"photo=",value:config.tut_img_id},{key:"chat_id=",value:req.body.message.chat.id}]
-			telegramAPI.consumeAPI(servicesAPI.sendPhoto,data_file,interface.show);
+			//data_file = [{key:"photo=",value:config.tut_img_id},{key:"chat_id=",value:req.body.message.chat.id}]
+			//telegramAPI.consumeAPI(servicesAPI.sendPhoto,data_file,interface.show);
 		}
 	}
 	
@@ -187,8 +188,8 @@ app.all('/test2', function (req, res) {
   	res.send('Ok')
 })
 
-var httpsServer = https.createServer(config.credentials, app);
+//var httpsServer = https.createServer(config.credentials, app);
 
-httpsServer.listen(443, function () {
-  console.log('Telegram Server listening on port 443!')
+app.listen(7821, function () {
+  console.log('Telegram Server listening on port 7821!')
 })

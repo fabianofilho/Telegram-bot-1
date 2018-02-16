@@ -88,7 +88,7 @@ function consumeAPI(service,r_data,callback){
 function sendLongMessage(service,message,chat_id,callback){
 	for (var i = 0; i <= message.length; i+=3500) {
 		val = message.substr(i,i+3500)
-		data = [{key:"text=",value:val},{key:"parse_mode=",value:"HTML"},{key:"chat_id=",value:chat_id}]
+		data =[{key:"chat_id=",value:chat_id},{key:"parse_mode=",value:"HTML"},{key:"text=",value:val}]
 		consumeAPI(service,data,callback);	
 	}
 }

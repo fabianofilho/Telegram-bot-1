@@ -1,0 +1,927 @@
+Telegram Server listening on port 7821!
+{ update_id: 49848903,
+  message: 
+   { message_id: 13,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518800964,
+     text: '/log test',
+     entities: [ [Object] ] } }
+ok
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A&parse_mode=HTML&chat_id=373552498&
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: chat_id is empty"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: chat_id is empty' } }
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: chat_id is empty"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: chat_id is empty' } }
+{ update_id: 49848904,
+  message: 
+   { message_id: 14,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518801011,
+     text: '/hel',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Oi%20Jo%C3%A3o%20Carlos%20eu%20ainda%20n%C3%A3o%20aprendi%20sobre%20isso,%20mas%20voc%C3%AA%20pode%20me%20mandar%20uma%20imagem%20para%20eu%20processar%20:D&chat_id=373552498&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":15,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518801012,"text":"Oi Jo\u00e3o Carlos eu ainda n\u00e3o aprendi sobre isso, mas voc\u00ea pode me mandar uma imagem para eu processar :D"}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 15,
+        from: [Object],
+        chat: [Object],
+        date: 1518801012,
+        text: 'Oi João Carlos eu ainda não aprendi sobre isso, mas você pode me mandar uma imagem para eu processar :D' } } }
+{ update_id: 49848905,
+  message: 
+   { message_id: 16,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518801017,
+     text: '/help',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=/status%20-%3E%20*Exibe%20processos*%20%0A/start%20_%3Ctest,prod%3E_%20-%3E%20*Inicia%20servidor*%20%20%0A/git%20_%3Ctest,prod,front%3E_%20-%3E%20*Atualiza%20servidor*%20%0A/kill%20_%3Cid%3E_%20-%3E%20*Mata%20processo*%20%0A/log%20_%3Ctest,prod%3E_%20-%3E%20*Exibe%20log*&parse_mode=Markdown&chat_id=373552498&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":17,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518801018,"text":"/status -> Exibe processos \n/start <test,prod> -> Inicia servidor  \n/git <test,prod,front> -> Atualiza servidor \n/kill <id> -> Mata processo \n/log <test,prod> -> Exibe log","entities":[{"offset":0,"length":7,"type":"bot_command"},{"offset":11,"length":15,"type":"bold"},{"offset":28,"length":6,"type":"bot_command"},{"offset":35,"length":11,"type":"italic"},{"offset":50,"length":15,"type":"bold"},{"offset":68,"length":4,"type":"bot_command"},{"offset":73,"length":17,"type":"italic"},{"offset":94,"length":17,"type":"bold"},{"offset":113,"length":5,"type":"bot_command"},{"offset":119,"length":4,"type":"italic"},{"offset":127,"length":13,"type":"bold"},{"offset":142,"length":4,"type":"bot_command"},{"offset":147,"length":11,"type":"italic"},{"offset":162,"length":9,"type":"bold"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 17,
+        from: [Object],
+        chat: [Object],
+        date: 1518801018,
+        text: '/status -> Exibe processos \n/start <test,prod> -> Inicia servidor  \n/git <test,prod,front> -> Atualiza servidor \n/kill <id> -> Mata processo \n/log <test,prod> -> Exibe log',
+        entities: [Object] } } }
+{ update_id: 49848906,
+  message: 
+   { message_id: 18,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518801026,
+     text: '/log test',
+     entities: [ [Object] ] } }
+ok
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A#=%3E%20Login%20process%20--%20user:joaopandolfi%0A#=%3E%20LOGIN%20SUCESS%20:1%0A&parse_mode=HTML&chat_id=373552498&
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: chat_id is empty"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: chat_id is empty' } }
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: chat_id is empty"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: chat_id is empty' } }
+{ update_id: 49848907,
+  message: 
+   { message_id: 19,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518801163,
+     text: '/status',
+     entities: [ [Object] ] } }
+ok
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=USER%20%20%20%20%20%20%20PID%20%25CPU%20%25MEM%20%20%20%20VSZ%20%20%20RSS%20TTY%20%20%20%20%20%20STAT%20START%20%20%20TIME%20COMMAND%0Aroot%20%20%20%20%20%20%20%20%201%20%200.0%20%200.0%20%2033404%20%201864%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%205:05%20init%0Aroot%20%20%20%20%20%20%20%20%202%20%200.0%20%200.0%20%20%20%20%20%200%20%20%20%20%200%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%200:00%20%5Bkthreadd/112760%5D%0Aroot%20%20%20%20%20%20%20%20%203%20%200.0%20%200.0%20%20%20%20%20%200%20%20%20%20%200%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%200:00%20%5Bkhelper/112760%5D%0Aroot%20%20%20%20%20%20%20151%20%200.0%20%200.0%20%2019436%20%20%20404%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%200:00%20upstart-udev-bridge%20--daemon%0Aroot%20%20%20%20%20%20%20169%20%200.0%20%200.0%20%2049696%20%20%20712%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20/lib/systemd/systemd-udevd%20--daemon%0Aroot%20%20%20%20%20%20%20250%20%200.0%20%200.0%20%2015352%20%20%20324%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%200:00%20upstart-socket-bridge%20--daemon%0Amessage+%20%20%20328%20%200.0%20%200.0%20%2039388%20%20%20864%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20dbus-daemon%20--system%20--fork%0Aroot%20%20%20%20%20%20%20341%20%200.0%20%200.0%20%2043604%20%201396%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20/lib/systemd/systemd-logind%0Asyslog%20%20%20%20%20348%20%200.0%20%200.0%20184196%20%201032%20?%20%20%20%20%20%20%20%20Ssl%20%20%202017%20%20%200:21%20rsyslogd%0Aroot%20%20%20%20%20%20%20395%20%200.0%20%200.0%20%2015368%20%20%20316%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%200:00%20upstart-file-bridge%20--daemon%0Amysql%20%20%20%20%20%20443%20%200.0%20%200.1%20654540%20%204412%20?%20%20%20%20%20%20%20%20Ssl%20%20Jan12%20%2028:45%20/usr/sbin/mysqld%0Aroot%20%20%20%20%20%20%20444%20%200.0%20%200.0%20%2061536%20%202488%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:23%20/usr/sbin/sshd%20-D%0Aroot%20%20%20%20%20%20%20446%20%200.0%20%200.0%20%2060196%20%201236%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20sudo%20-u%20bigbluebutton%20bin/bbb-fsesl-akka%0Amongodb%20%20%20%20447%20%200.3%20%200.1%20998428%20%206852%20?%20%20%20%20%20%20%20%20Ssl%20%20%202017%20366:44%20/usr/bin/mongod%20--config%20/etc/mongod.conf%0Abigblue+%20%20%20460%20%200.3%20%201.8%203207772%2078036%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20345:47%20java%20-Xms130m%20-Xmx256m%20-cp%20/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-fsesl-akka-1.0.0-23.jar:/usr/share/bbb-fsesl-akka/lib/org.scala-lang.scala-library-2.11.6.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.akka.akka-actor_2.11-2.3.11.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.config-1.2.1.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.11.jar:/usr/share/bbb-fsesl-akka/lib/org.slf4j.slf4j-api-1.7.5.jar:/usr/share/bbb-fsesl-akka/lib/ch.qos.logback.logback-classic-1.0.3.jar:/usr/share/bbb-fsesl-akka/lib/ch.qos.logback.logback-core-1.0.3.jar:/usr/share/bbb-fsesl-akka/lib/org.pegdown.pegdown-1.4.0.jar:/usr/share/bbb-fsesl-akka/lib/org.parboiled.parboiled-java-1.1.5.jar:/usr/share/bbb-fsesl-akka/lib/org.parboiled.parboiled-core-1.1.5.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-tree-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-analysis-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-util-4.1.jar:/usr/share/bbb-fsesl-akka/lib/junit.junit-4.11.jar:/usr/share/bbb-fsesl-akka/lib/org.hamcrest.hamcrest-core-1.3.jar:/usr/share/bbb-fsesl-akka/lib/com.etaty.rediscala.rediscala_2.11-1.4.0.jar:/usr/share/bbb-fsesl-akka/lib/commons-codec.commons-codec-1.8.jar:/usr/share/bbb-fsesl-akka/lib/joda-time.joda-time-2.3.jar:/usr/share/bbb-fsesl-akka/lib/com.google.code.gson.gson-1.7.1.jar:/usr/share/bbb-fsesl-akka/lib/redis.clients.jedis-2.1.0.jar:/usr/share/bbb-fsesl-akka/lib/commons-pool.commons-pool-1.5.5.jar:/usr/share/bbb-fsesl-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-fsesl-client-0.0.3.jar:/usr/share/bbb-fsesl-akka/lib/org.jboss.netty.netty-3.2.1.Final.jar%20org.bigbluebutton.Boot%0Afreeswi+%20%20%20545%20%201.0%20%200.2%202661684%2010764%20?%20%20%20%20%20%20%20SNl%20%20%202017%201062:13%20/opt/freeswitch/bin/freeswitch%20-nc%0Aroot%20%20%20%20%20%20%20563%20%200.0%20%200.0%20144436%20%20%20928%20?%20%20%20%20%20%20%20%20Sl%20%20%20%202017%20%20%200:10%20/usr/lib/libreoffice/program/oosplash%20--headless%20--nologo%20--nofirststartwizard%20--accept=socket,host=1&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=27.0.0.1,port=8100;urp%0Ajicofo%20%20%20%20%20578%20%200.1%20%201.5%206286316%2063556%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20153:07%20java%20-Xmx3072m%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/tmp%20-Djava.library.path=/usr/share/jicofo/lib/native/linux-64%20-Dnet.java.sip.communicator.SC_HOME_DIR_LOCATION=/etc/jitsi%20-Dnet.java.sip.communicator.SC_HOME_DIR_NAME=jicofo%20-Dnet.java.sip.communicator.SC_LOG_DIR_LOCATION=/var/log/jitsi%20-Djava.util.logging.config.file=/etc/jitsi/jicofo/logging.properties%20-cp%20/usr/share/jicofo/jicofo.jar:/usr/share/jicofo/lib/agafua-syslog-0.4.jar:/usr/share/jicofo/lib/bccontrib-1.0.jar:/usr/share/jicofo/lib/bcpkix-jdk15on-1.54.jar:/usr/share/jicofo/lib/bcprov-jdk15on-1.54.jar:/usr/share/jicofo/lib/commons-codec-1.6.jar:/usr/share/jicofo/lib/commons-lang-2.4.jar:/usr/share/jicofo/lib/commons-lang3-3.1.jar:/usr/share/jicofo/lib/commons-logging-1.2.jar:/usr/share/jicofo/lib/concurrentlinkedhashmap-lru-1.0_jdk5.jar:/usr/share/jicofo/lib/core-2.0.0.jar:/usr/share/jicofo/lib/dnsjava-2.1.7.jar:/usr/share/jicofo/lib/dom4j-1.6.1.jar:/usr/share/jicofo/lib/fmj-1.0-20160121.172939-10.jar:/usr/share/jicofo/lib/guava-15.0.jar:/usr/share/jicofo/lib/httpclient-4.4.jar:/usr/share/jicofo/lib/httpcore-4.4.jar:/usr/share/jicofo/lib/ice4j-2.0-20170420.153542-14.jar:/usr/share/jicofo/lib/jain-sip-ri-ossonly-1.2.98c7f8c-jitsi-oss1.jar:/usr/share/jicofo/lib/java-sdp-nist-bridge-1.1.jar:/usr/share/jicofo/lib/javax.servlet-3.0.0.v201112011016.jar:/usr/share/jicofo/lib/javax.servlet-api-3.1.0.jar:/usr/share/jicofo/lib/jcip-annotations-1.0.jar:/usr/share/jicofo/lib/jetty-ajp-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-client-9.2.10.v20150310.jar:/usr/share/jicofo/lib/jetty-continuation-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-http-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-io-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-proxy-9.2.10.v20150310.jar:/usr/share/jicofo/lib/jetty-security-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-server-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-servlet-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-util-8.1.16.v20140903.jar:/usr/share/jicofo/lib/jetty-webapp-7.0.1.v20091125.jar:/usr/share/jicofo/lib/jetty-xml-7.0.1.v20091125.jar:/usr/share/jicofo/lib/jicoco-1.0-20161122.205032-37.jar:/usr/share/jicofo/lib/jitsi-android-osgi-1.0-20150723.002702-1.jar:/usr/share/jicofo/lib/jitsi-configuration-2.9-20150723.181638-1.jar:/usr/share/jicofo/lib/jitsi-credentialsstorage-2.9-20150723.181643-1.jar:/usr/share/jicofo/lib/jitsi-dnsservice-2.9-20150723.181644-1.jar:/usr/share/jicofo/lib/jitsi-netaddr-2.9-20150723.181645-1.jar:/usr/share/jicofo/lib/jitsi-protocol-2.9-20160823.174711-4.jar:/usr/share/jicofo/lib/jitsi-protocol-jabber-2.11-20170911.110205-14.jar:/usr/share/jicofo/lib/jitsi-protocol-media-2.9-20150723.181646-1.jar:/usr/share/jicofo/lib/jitsi-ui-service-2.9-20150723.181654-1.jar:/usr/share/jicofo/lib/jitsi-util-2.9-20160203.194039-2.jar:/usr/share/jicofo/lib/jna-4.1.0.jar:/usr/share/jicofo/lib/jnsapi-0.0.3-jitsi-1-20151013.145326-2.jar:/usr/share/jicofo/lib/json-simple-1.1.1.jar:/usr/share/jicofo/lib/jzlib-1.1.3.jar:/usr/share/jicofo/lib/libidn-1.15.jar:/usr/share/jicofo/lib/libjitsi-1.0-20170901.140206-311.jar:/usr/share/jicofo/lib/log4j-1.2.14.jar:/usr/share/jicofo/lib/orange-extensions-1.3.0.jar:/usr/share/jicofo/lib/org.apache.felix.framework-4.4.0.jar:/usr/share/jicofo/lib/org.apache.felix.main-4.4.0.jar:/usr/share/jicofo/lib/org.osgi.core-4.3.1.jar:/usr/share/jicofo/lib/sdes4j-1.1.3.jar:/usr/share/jicofo/lib/sdp-api-1.0.jar:/usr/share/jicofo/lib/slf4j-api-1.7.7.jar:/usr/share/jicofo/lib/slf4j-jdk14-1.7.7.jar:/usr/share/jicofo/lib/smack-3.2.2-jitsi-1-20151215.185921-3.jar:/usr/share/jicofo/lib/smackx-3.2.2-jitsi-1-20151215.185922-3.jar:/usr/share/jicofo/lib/tinder-1.2.3.jar:/usr/share/jicofo/lib/weupnp-0.1.4.jar:/usr/share/jicofo/lib/xml-apis-1.0.b2.jar:/usr/share/jicofo/lib/xmlpull-1.1.3.4a.jar:/usr/share/jicofo/lib/xpp3-1.1.4c.jar:/usr/share/jicofo/lib/zrtp4j-light-3.2.0-jitsi-1-20150723.002345-1.jar%20org.jitsi.jicofo.Main%20--host=localhost%20--domain=31.220.54.251%20--port=5347%20--secret=RPE3MDep%20--user_name=focus%20--user_domain=auth.31.220.54.251%20--user_password=sdSIHHjQ%0Ajvb%20%20%20%20%20%20%20%20587%20%200.1%20%201.3%206280624%2054720%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20143:10%20java%20-Xmx3072m%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/tmp%20-Djava.library.path=/usr/share/jitsi-videobridge/lib/native/linux-64%20-Dnet.java.sip.communicator.SC_HOME_DIR_LOCATION=/etc/jitsi%20-Dnet.java.sip.communicator.SC_HOME_DIR_NAME=videobridge%20-Dnet.java.sip.communicator.SC_LOG_DIR_LOCATION=/var/log/jitsi%20-Djava.util.logging.config.file=/etc/jitsi/videobridge/logging.properties%20-cp%20/usr/share/jitsi-videobridge/jitsi-videobridge.jar:/usr/share/jitsi-videobridge/lib/agafua-syslog-0.4.jar:/usr/share/jitsi-videobridge/lib/async-http-client-1.9.31.jar:/usr/share/jitsi-videobridge/lib/bccontrib-1.0.jar:/usr/share/jitsi-videobridge/lib/bcpkix-jdk15on-1.54.jar:/usr/share/jitsi-videobridge/lib/bcprov-jdk15on-1.54.jar:/usr/share/jitsi-videobridge/lib/callstats-java-sdk-4.1.2.jar:/usr/share/jitsi-videobridge/lib/commons-codec-1.6.jar:/usr/share/jitsi-videobridge/lib/commons-lang-2.4.jar:/usr/share/jitsi-videobridge/lib/commons-lang3-3.1.jar:/usr/share/jitsi-videobridge/lib/commons-logging-1.2.jar:/usr/share/jitsi-videobridge/lib/concurrentlinkedhashmap-lru-1.0_jdk5.jar:/usr/share/jitsi-videobridge/lib/core-2.0.0.jar:/usr/share/jitsi-videobridge/lib/dnsjava-2.1.7.jar:/usr/share/jitsi-videobridge/lib/dom4j-1.6.1.jar:/usr/share/jitsi-videobridge/lib/fmj-1.0-20161207.221530-23.jar:/usr/share/jitsi-videobridge/lib/gson-2.3.1.jar:/usr/share/jitsi-videobridge/lib/guava-15.0.jar:/usr/share/jitsi-videobridge/lib/httpasyncclient-4.1.jar:/usr/share/jitsi-videobridge/lib/httpclient-4.4.jar:/usr/share/jitsi-videobridge/lib/httpcore-4.4.jar:/usr/share/jitsi-videobridge/lib/httpcore-nio-4.4.1.jar:/usr/share/jitsi-videobridge/lib/ice4j-2.0.0-20170821.174042-3.jar:/usr/share/jitsi-videobridge/lib/jain-sip-ri-ossonly-1.2.98c7f8c-jitsi-oss1.jar:/usr/share/jitsi-videobridge/lib/java-sdp-nist-bridge-1.1.jar:/usr/share/jitsi-videobridge/lib/javax.servlet-api-3.1.0.jar:/usr/share/jitsi-videobridge/lib/jcip-annotations-1.0.jar:/usr/share/jitsi-videobridge/lib/jetty-client-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-http-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-io-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-proxy-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-rewrite-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-security-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-server-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-servlet-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-util-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-webapp-7.0.1.v20091125.jar:/usr/share/jitsi-videobridge/lib/jetty-xml-7.0.1.v20091125.jar:/usr/share/jitsi-videobridge/lib/jicoco-1.0-20170417.175044-39.jar:/usr/share/jitsi-videobridge/lib/jit&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=-api-1.0.jar:/usr/share/jicofo/lib/slf4j-api-1.7.7.jar:/usr/share/jicofo/lib/slf4j-jdk14-1.7.7.jar:/usr/share/jicofo/lib/smack-3.2.2-jitsi-1-20151215.185921-3.jar:/usr/share/jicofo/lib/smackx-3.2.2-jitsi-1-20151215.185922-3.jar:/usr/share/jicofo/lib/tinder-1.2.3.jar:/usr/share/jicofo/lib/weupnp-0.1.4.jar:/usr/share/jicofo/lib/xml-apis-1.0.b2.jar:/usr/share/jicofo/lib/xmlpull-1.1.3.4a.jar:/usr/share/jicofo/lib/xpp3-1.1.4c.jar:/usr/share/jicofo/lib/zrtp4j-light-3.2.0-jitsi-1-20150723.002345-1.jar%20org.jitsi.jicofo.Main%20--host=localhost%20--domain=31.220.54.251%20--port=5347%20--secret=RPE3MDep%20--user_name=focus%20--user_domain=auth.31.220.54.251%20--user_password=sdSIHHjQ%0Ajvb%20%20%20%20%20%20%20%20587%20%200.1%20%201.3%206280624%2054720%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20143:10%20java%20-Xmx3072m%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/tmp%20-Djava.library.path=/usr/share/jitsi-videobridge/lib/native/linux-64%20-Dnet.java.sip.communicator.SC_HOME_DIR_LOCATION=/etc/jitsi%20-Dnet.java.sip.communicator.SC_HOME_DIR_NAME=videobridge%20-Dnet.java.sip.communicator.SC_LOG_DIR_LOCATION=/var/log/jitsi%20-Djava.util.logging.config.file=/etc/jitsi/videobridge/logging.properties%20-cp%20/usr/share/jitsi-videobridge/jitsi-videobridge.jar:/usr/share/jitsi-videobridge/lib/agafua-syslog-0.4.jar:/usr/share/jitsi-videobridge/lib/async-http-client-1.9.31.jar:/usr/share/jitsi-videobridge/lib/bccontrib-1.0.jar:/usr/share/jitsi-videobridge/lib/bcpkix-jdk15on-1.54.jar:/usr/share/jitsi-videobridge/lib/bcprov-jdk15on-1.54.jar:/usr/share/jitsi-videobridge/lib/callstats-java-sdk-4.1.2.jar:/usr/share/jitsi-videobridge/lib/commons-codec-1.6.jar:/usr/share/jitsi-videobridge/lib/commons-lang-2.4.jar:/usr/share/jitsi-videobridge/lib/commons-lang3-3.1.jar:/usr/share/jitsi-videobridge/lib/commons-logging-1.2.jar:/usr/share/jitsi-videobridge/lib/concurrentlinkedhashmap-lru-1.0_jdk5.jar:/usr/share/jitsi-videobridge/lib/core-2.0.0.jar:/usr/share/jitsi-videobridge/lib/dnsjava-2.1.7.jar:/usr/share/jitsi-videobridge/lib/dom4j-1.6.1.jar:/usr/share/jitsi-videobridge/lib/fmj-1.0-20161207.221530-23.jar:/usr/share/jitsi-videobridge/lib/gson-2.3.1.jar:/usr/share/jitsi-videobridge/lib/guava-15.0.jar:/usr/share/jitsi-videobridge/lib/httpasyncclient-4.1.jar:/usr/share/jitsi-videobridge/lib/httpclient-4.4.jar:/usr/share/jitsi-videobridge/lib/httpcore-4.4.jar:/usr/share/jitsi-videobridge/lib/httpcore-nio-4.4.1.jar:/usr/share/jitsi-videobridge/lib/ice4j-2.0.0-20170821.174042-3.jar:/usr/share/jitsi-videobridge/lib/jain-sip-ri-ossonly-1.2.98c7f8c-jitsi-oss1.jar:/usr/share/jitsi-videobridge/lib/java-sdp-nist-bridge-1.1.jar:/usr/share/jitsi-videobridge/lib/javax.servlet-api-3.1.0.jar:/usr/share/jitsi-videobridge/lib/jcip-annotations-1.0.jar:/usr/share/jitsi-videobridge/lib/jetty-client-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-http-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-io-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-proxy-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-rewrite-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-security-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-server-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-servlet-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-util-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/jetty-webapp-7.0.1.v20091125.jar:/usr/share/jitsi-videobridge/lib/jetty-xml-7.0.1.v20091125.jar:/usr/share/jitsi-videobridge/lib/jicoco-1.0-20170417.175044-39.jar:/usr/share/jitsi-videobridge/lib/jitsi-android-osgi-1.0-20150723.002702-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-configuration-2.9-20150723.181638-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-dnsservice-2.9-20150723.181644-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-fileaccess-2.9-20150723.181644-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-netaddr-2.9-20150723.181645-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-packetlogging-2.9-20160331.174040-3.jar:/usr/share/jitsi-videobridge/lib/jitsi-protocol-2.9-20151211.202410-3.jar:/usr/share/jitsi-videobridge/lib/jitsi-protocol-jabber-2.11-20170726.210550-11.jar:/usr/share/jitsi-videobridge/lib/jitsi-protocol-media-2.9-20150723.181646-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-resourcemanager-2.9-20150723.181652-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-ui-service-2.9-20150723.181654-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-util-2.9-20160203.194039-2.jar:/usr/share/jitsi-videobridge/lib/jna-4.1.0.jar:/usr/share/jitsi-videobridge/lib/jnsapi-0.0.3-jitsi-1-20151013.145326-2.jar:/usr/share/jitsi-videobridge/lib/jose4j-0.5.1.jar:/usr/share/jitsi-videobridge/lib/json-simple-1.1.1.jar:/usr/share/jitsi-videobridge/lib/jul-to-slf4j-1.7.7.jar:/usr/share/jitsi-videobridge/lib/jzlib-1.1.3.jar:/usr/share/jitsi-videobridge/lib/libidn-1.15.jar:/usr/share/jitsi-videobridge/lib/libjitsi-1.0-20170920.120618-314.jar:/usr/share/jitsi-videobridge/lib/log4j-1.2.15.jar:/usr/share/jitsi-videobridge/lib/log4j-api-2.3.jar:/usr/share/jitsi-videobridge/lib/log4j-core-2.3.jar:/usr/share/jitsi-videobridge/lib/netty-3.10.4.Final.jar:/usr/share/jitsi-videobridge/lib/orange-extensions-1.3.0.jar:/usr/share/jitsi-videobridge/lib/org.apache.felix.framework-4.4.0.jar:/usr/share/jitsi-videobridge/lib/org.apache.felix.main-4.4.0.jar:/usr/share/jitsi-videobridge/lib/org.osgi.core-4.3.1.jar:/usr/share/jitsi-videobridge/lib/osgi-over-slf4j-1.7.7.jar:/usr/share/jitsi-videobridge/lib/sdes4j-1.1.3.jar:/usr/share/jitsi-videobridge/lib/sdp-api-1.0.jar:/usr/share/jitsi-videobridge/lib/sigar-1.6.4.jar:/usr/share/jitsi-videobridge/lib/slf4j-api-1.7.7.jar:/usr/share/jitsi-videobridge/lib/slf4j-jdk14-1.7.7.jar:/usr/share/jitsi-videobridge/lib/slf4j-simple-1.6.1.jar:/usr/share/jitsi-videobridge/lib/smack-3.2.2-jitsi-1-20151215.185921-3.jar:/usr/share/jitsi-videobridge/lib/smackx-3.2.2-jitsi-1-20151215.185922-3.jar:/usr/share/jitsi-videobridge/lib/tinder-1.2.3.jar:/usr/share/jitsi-videobridge/lib/websocket-api-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-client-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-common-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-server-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-servlet-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/weupnp-0.1.4.jar:/usr/share/jitsi-videobridge/lib/xml-apis-1.0.b2.jar:/usr/share/jitsi-videobridge/lib/xmlpull-1.1.3.4a.jar:/usr/share/jitsi-videobridge/lib/xpp3-1.1.4c.jar:/usr/share/jitsi-videobridge/lib/zrtp4j-light-3.2.0-jitsi-1-20150723.002345-1.jar%20org.jitsi.videobridge.Main%20--host=localhost%20--domain=31.220.54.251%20--port=5347%20--secret=m2Op#wT8%0Aroot%20%20%20%20%20%20%20637%20%200.0%20%200.0%20619284%20%201476%20?%20%20%20%20%20%20%20%20Sl%20%20%20%202017%20%20%200:10%20/usr/lib/libreoffice/program/soffice.bin%20--headless%20--nologo%20--nofirststartwizard%20--accept=socket,host=127.0.0.1,port=8100;urp%0Aroot%20%20%20%20%20%20%20639%20%200.0%20%200.0%20%2084612%20%20%20540%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20nginx:%20master%20process%20/usr/sbin/nginx%0Awww-data%20%20%20640%20%200.0%20%200.0%20%2085568%20%202644%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:22%20nginx:%20worker%20process%0Awww-data%20%20%20641%20%200.0%20%200.0%20%2085492%20%202652%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:18%20nginx:%20worker%20process%0Awww-data%20%20%20642%20%200.0%20%200.0%20%2085500%20%202508%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:31%20nginx:%20worker%20process%0Awww-data%20%20%20643%20%200.0%20%200.0%20%2085552%20%202496%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:25%20nginx:%20worker%20process%0Aroot%20%20%20%20%20%20%20644%20%200.0%20%200.0%20%20%20%20%20%200%20%20%20%20%200%20?%20%20%20%20%20%20%20%20Z%20%20%20%20%202017%20%20%200:00%20%5Bsoffice.bin%5D%20%3Cdefunct%3E%0Aprosody%20%20%20%20724%20%200.0%20%200.1%20%2053144%20%208188%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%2034:24%20lua5.1%20/usr/bin/prosody%0Aredis%20%20%20%20%20%20745%20%200.0%20%200.0%20%2041052%20%201216%20?%20%20%20%20%20%20%20%20Ssl%20%20%202017%20%2037:55%20/usr/bin/redis-server%20127.0.0.1:6379%20%20%20%20%20%20%20%0Atomcat7%20%20%20%20794%20%200.1%20%203.1%203315328%20131372%20?%20%20%20%20%20%20Sl%20%20%20%202017%20109:46%20/usr/lib/jvm/default-java/bin/java%20-Djava.util.logging.config.file=/var/lib/tomcat7/conf/logging.properties%20-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager%20-Djava.awt.headless=true%20-Xmx128m%20-XX:+UseConcMarkSweepGC%20-Xms256m%20-Xmx256m%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/var/bigbluebutton/diagnostics%20-Djava.endorsed.dirs=/usr/share/tomcat7/endorsed%20-classpath%20/usr/share/tomcat7/bin/bootstrap.jar:/usr/share/tomcat7/bin/tomcat-juli.jar%20-Dcatalina.base=/var/lib/tomcat7%20-Dcatalina.home=/usr/share/tomcat7%20-Djava.io.tmpdir=/tmp/tomcat7-tomcat7-tmp%20org.apache.catalina.startup.Bootstrap%20start%0Ared5%20%20%20%20%20%20%20889%20%200.4%20%205.6%203400936%20237324%20?%20%20%20%20%20%20Sl%20%20%20%202017%20440:42%20/usr/lib/jvm/java-7-openjdk-amd64/bin/java%20-Dpython.home=lib%20-Xms320M%20-Xmx320M%20-XX:+TieredCompilation%20-XX:+UseBiasedLocking%20-XX:+UseParNewGC%20-Dorg.terracotta.quartz.skipUpdateCheck=true%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/usr/share/red5/diagnostics%20-Dred5.root=/usr/share/red5%20-Dlogback.ContextSelector=org.red5.logging.LoggingContextSelector%20-Dcatalina.useNaming=true%20-Djava.security.debug=failure%20-cp%20/usr/share/red5/red5-service.jar:/usr/share/red5/conf%20org.red5.server.Bootstrap%0Aroot%20%20%20%20%20%20%20959%20%200.0%20%200.0%20%2030560%20%20%20880%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%205:07%20/usr/bin/monit%20-c%20/etc/monit/monitrc%0Aroot%20%20%20%20%20%20%20974%20%200.0%20%200.0%20%2012744%20%20%20688%20tty1%20%20%20%20%20Ss+%20%20%202017%20%20%200:00%20/sbin/getty%2038400%20console%0Aroot%20%20%20%20%20%20%20976%20%200.0%20%200.0%20%2012744%20%20%20692%20tty2%20%20%20%20%20Ss+%20%20%202017%20%20%200:00%20/sbin/getty%2038400%20tty2%0Aroot%20%20%20%20%20%201131%20%200.0%20%200.0%20%2060196%20%201236%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20sudo%20-u%20bigbluebutton%20bin/bbb-apps-akka%0Abigblue+%20%201162%20%200.2%20%201.8%203196520%2078088%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20309:34%20java%20-Xms130m%20-Xmx256m%20-cp%20/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-apps-akka-1.0.0-62.jar:/usr/share/bbb-apps-akka/lib/org.scala-lang.scala-library-2.11.6.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.akka.akka-actor_2.11-2.3.11.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.config-1.2.1.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.11.jar:/usr/share/bbb-apps-akka/lib/org.slf4j.slf4j-api-1.7.5.jar:/usr/share/bbb-apps-akka/lib/org.pegdown.pegdown-1.4.0.jar:/usr/share/bbb-apps-akka/lib/org.parboiled.parboiled-java-1.1.5.jar:/usr/share/bbb-apps-akka/lib/org.parboiled.parboiled-core-1.1.5.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-tree-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-analysis-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-util-4.1.jar:/usr/share/bbb-apps-akka/lib/junit.junit-4.11.jar:/usr/share/bbb-apps-akka/lib/org.hamcrest.hamcrest-core-1.3.jar:/usr/share/bbb-apps-akka/lib/com.etaty.rediscala.rediscala_2.11-1.4.0.jar:/usr/share/bbb-apps-akka/lib/commons-codec.commons-codec-1.8.jar:/usr/share/bbb-apps-akka/lib/joda-time.joda-time-2.3.jar:/usr/share/bbb-apps-akka/lib/com.google.code.gson.gson-1.7.1.jar:/usr/share/bbb-apps-ak&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=si-android-osgi-1.0-20150723.002702-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-configuration-2.9-20150723.181638-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-dnsservice-2.9-20150723.181644-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-fileaccess-2.9-20150723.181644-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-netaddr-2.9-20150723.181645-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-packetlogging-2.9-20160331.174040-3.jar:/usr/share/jitsi-videobridge/lib/jitsi-protocol-2.9-20151211.202410-3.jar:/usr/share/jitsi-videobridge/lib/jitsi-protocol-jabber-2.11-20170726.210550-11.jar:/usr/share/jitsi-videobridge/lib/jitsi-protocol-media-2.9-20150723.181646-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-resourcemanager-2.9-20150723.181652-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-ui-service-2.9-20150723.181654-1.jar:/usr/share/jitsi-videobridge/lib/jitsi-util-2.9-20160203.194039-2.jar:/usr/share/jitsi-videobridge/lib/jna-4.1.0.jar:/usr/share/jitsi-videobridge/lib/jnsapi-0.0.3-jitsi-1-20151013.145326-2.jar:/usr/share/jitsi-videobridge/lib/jose4j-0.5.1.jar:/usr/share/jitsi-videobridge/lib/json-simple-1.1.1.jar:/usr/share/jitsi-videobridge/lib/jul-to-slf4j-1.7.7.jar:/usr/share/jitsi-videobridge/lib/jzlib-1.1.3.jar:/usr/share/jitsi-videobridge/lib/libidn-1.15.jar:/usr/share/jitsi-videobridge/lib/libjitsi-1.0-20170920.120618-314.jar:/usr/share/jitsi-videobridge/lib/log4j-1.2.15.jar:/usr/share/jitsi-videobridge/lib/log4j-api-2.3.jar:/usr/share/jitsi-videobridge/lib/log4j-core-2.3.jar:/usr/share/jitsi-videobridge/lib/netty-3.10.4.Final.jar:/usr/share/jitsi-videobridge/lib/orange-extensions-1.3.0.jar:/usr/share/jitsi-videobridge/lib/org.apache.felix.framework-4.4.0.jar:/usr/share/jitsi-videobridge/lib/org.apache.felix.main-4.4.0.jar:/usr/share/jitsi-videobridge/lib/org.osgi.core-4.3.1.jar:/usr/share/jitsi-videobridge/lib/osgi-over-slf4j-1.7.7.jar:/usr/share/jitsi-videobridge/lib/sdes4j-1.1.3.jar:/usr/share/jitsi-videobridge/lib/sdp-api-1.0.jar:/usr/share/jitsi-videobridge/lib/sigar-1.6.4.jar:/usr/share/jitsi-videobridge/lib/slf4j-api-1.7.7.jar:/usr/share/jitsi-videobridge/lib/slf4j-jdk14-1.7.7.jar:/usr/share/jitsi-videobridge/lib/slf4j-simple-1.6.1.jar:/usr/share/jitsi-videobridge/lib/smack-3.2.2-jitsi-1-20151215.185921-3.jar:/usr/share/jitsi-videobridge/lib/smackx-3.2.2-jitsi-1-20151215.185922-3.jar:/usr/share/jitsi-videobridge/lib/tinder-1.2.3.jar:/usr/share/jitsi-videobridge/lib/websocket-api-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-client-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-common-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-server-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/websocket-servlet-9.2.10.v20150310.jar:/usr/share/jitsi-videobridge/lib/weupnp-0.1.4.jar:/usr/share/jitsi-videobridge/lib/xml-apis-1.0.b2.jar:/usr/share/jitsi-videobridge/lib/xmlpull-1.1.3.4a.jar:/usr/share/jitsi-videobridge/lib/xpp3-1.1.4c.jar:/usr/share/jitsi-videobridge/lib/zrtp4j-light-3.2.0-jitsi-1-20150723.002345-1.jar%20org.jitsi.videobridge.Main%20--host=localhost%20--domain=31.220.54.251%20--port=5347%20--secret=m2Op#wT8%0Aroot%20%20%20%20%20%20%20637%20%200.0%20%200.0%20619284%20%201476%20?%20%20%20%20%20%20%20%20Sl%20%20%20%202017%20%20%200:10%20/usr/lib/libreoffice/program/soffice.bin%20--headless%20--nologo%20--nofirststartwizard%20--accept=socket,host=127.0.0.1,port=8100;urp%0Aroot%20%20%20%20%20%20%20639%20%200.0%20%200.0%20%2084612%20%20%20540%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20nginx:%20master%20process%20/usr/sbin/nginx%0Awww-data%20%20%20640%20%200.0%20%200.0%20%2085568%20%202644%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:22%20nginx:%20worker%20process%0Awww-data%20%20%20641%20%200.0%20%200.0%20%2085492%20%202652%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:18%20nginx:%20worker%20process%0Awww-data%20%20%20642%20%200.0%20%200.0%20%2085500%20%202508%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:31%20nginx:%20worker%20process%0Awww-data%20%20%20643%20%200.0%20%200.0%20%2085552%20%202496%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:25%20nginx:%20worker%20process%0Aroot%20%20%20%20%20%20%20644%20%200.0%20%200.0%20%20%20%20%20%200%20%20%20%20%200%20?%20%20%20%20%20%20%20%20Z%20%20%20%20%202017%20%20%200:00%20%5Bsoffice.bin%5D%20%3Cdefunct%3E%0Aprosody%20%20%20%20724%20%200.0%20%200.1%20%2053144%20%208188%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%2034:24%20lua5.1%20/usr/bin/prosody%0Aredis%20%20%20%20%20%20745%20%200.0%20%200.0%20%2041052%20%201216%20?%20%20%20%20%20%20%20%20Ssl%20%20%202017%20%2037:55%20/usr/bin/redis-server%20127.0.0.1:6379%20%20%20%20%20%20%20%0Atomcat7%20%20%20%20794%20%200.1%20%203.1%203315328%20131372%20?%20%20%20%20%20%20Sl%20%20%20%202017%20109:46%20/usr/lib/jvm/default-java/bin/java%20-Djava.util.logging.config.file=/var/lib/tomcat7/conf/logging.properties%20-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager%20-Djava.awt.headless=true%20-Xmx128m%20-XX:+UseConcMarkSweepGC%20-Xms256m%20-Xmx256m%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/var/bigbluebutton/diagnostics%20-Djava.endorsed.dirs=/usr/share/tomcat7/endorsed%20-classpath%20/usr/share/tomcat7/bin/bootstrap.jar:/usr/share/tomcat7/bin/tomcat-juli.jar%20-Dcatalina.base=/var/lib/tomcat7%20-Dcatalina.home=/usr/share/tomcat7%20-Djava.io.tmpdir=/tmp/tomcat7-tomcat7-tmp%20org.apache.catalina.startup.Bootstrap%20start%0Ared5%20%20%20%20%20%20%20889%20%200.4%20%205.6%203400936%20237324%20?%20%20%20%20%20%20Sl%20%20%20%202017%20440:42%20/usr/lib/jvm/java-7-openjdk-amd64/bin/java%20-Dpython.home=lib%20-Xms320M%20-Xmx320M%20-XX:+TieredCompilation%20-XX:+UseBiasedLocking%20-XX:+UseParNewGC%20-Dorg.terracotta.quartz.skipUpdateCheck=true%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/usr/share/red5/diagnostics%20-Dred5.root=/usr/share/red5%20-Dlogback.ContextSelector=org.red5.logging.LoggingContextSelector%20-Dcatalina.useNaming=true%20-Djava.security.debug=failure%20-cp%20/usr/share/red5/red5-service.jar:/usr/share/red5/conf%20org.red5.server.Bootstrap%0Aroot%20%20%20%20%20%20%20959%20%200.0%20%200.0%20%2030560%20%20%20880%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%205:07%20/usr/bin/monit%20-c%20/etc/monit/monitrc%0Aroot%20%20%20%20%20%20%20974%20%200.0%20%200.0%20%2012744%20%20%20688%20tty1%20%20%20%20%20Ss+%20%20%202017%20%20%200:00%20/sbin/getty%2038400%20console%0Aroot%20%20%20%20%20%20%20976%20%200.0%20%200.0%20%2012744%20%20%20692%20tty2%20%20%20%20%20Ss+%20%20%202017%20%20%200:00%20/sbin/getty%2038400%20tty2%0Aroot%20%20%20%20%20%201131%20%200.0%20%200.0%20%2060196%20%201236%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20sudo%20-u%20bigbluebutton%20bin/bbb-apps-akka%0Abigblue+%20%201162%20%200.2%20%201.8%203196520%2078088%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20309:34%20java%20-Xms130m%20-Xmx256m%20-cp%20/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-apps-akka-1.0.0-62.jar:/usr/share/bbb-apps-akka/lib/org.scala-lang.scala-library-2.11.6.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.akka.akka-actor_2.11-2.3.11.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.config-1.2.1.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.11.jar:/usr/share/bbb-apps-akka/lib/org.slf4j.slf4j-api-1.7.5.jar:/usr/share/bbb-apps-akka/lib/org.pegdown.pegdown-1.4.0.jar:/usr/share/bbb-apps-akka/lib/org.parboiled.parboiled-java-1.1.5.jar:/usr/share/bbb-apps-akka/lib/org.parboiled.parboiled-core-1.1.5.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-tree-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-analysis-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-util-4.1.jar:/usr/share/bbb-apps-akka/lib/junit.junit-4.11.jar:/usr/share/bbb-apps-akka/lib/org.hamcrest.hamcrest-core-1.3.jar:/usr/share/bbb-apps-akka/lib/com.etaty.rediscala.rediscala_2.11-1.4.0.jar:/usr/share/bbb-apps-akka/lib/commons-codec.commons-codec-1.8.jar:/usr/share/bbb-apps-akka/lib/joda-time.joda-time-2.3.jar:/usr/share/bbb-apps-akka/lib/com.google.code.gson.gson-1.7.1.jar:/usr/share/bbb-apps-akka/lib/redis.clients.jedis-2.7.2.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-pool2-2.3.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-classic-1.0.13.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-core-1.0.13.jar%20org.bigbluebutton.Boot%0Aroot%20%20%20%20%20%206958%20%200.0%20%200.1%20103744%20%204376%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:02%20%20%200:00%20sshd:%20root@pts/4%20%20%20%20%0Aroot%20%20%20%20%20%206970%20%200.0%20%200.0%20%2021224%20%202388%20pts/4%20%20%20%20Ss+%20%2010:02%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207051%20%200.0%20%200.1%20103744%20%204380%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:10%20%20%200:00%20sshd:%20root@pts/5%20%20%20%20%0Aroot%20%20%20%20%20%207062%20%200.0%20%200.0%20%2021224%20%202392%20pts/5%20%20%20%20Ss+%20%2010:10%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207220%20%200.0%20%200.1%20104268%20%204856%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:23%20%20%200:00%20sshd:%20root@pts/6%20%20%20%20%0Aroot%20%20%20%20%20%207233%20%200.0%20%200.0%20%2021224%20%202380%20pts/6%20%20%20%20Ss+%20%2010:23%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207827%20%200.0%20%200.0%201065248%201508%20?%20%20%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:00%20npm%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0Aroot%20%20%20%20%20%207837%20%200.0%20%200.0%20%20%204408%20%20%20464%20?%20%20%20%20%20%20%20%20S%20%20%20%20Jan30%20%20%200:00%20sh%20-c%20react-scripts%20start%0Aroot%20%20%20%20%20%207838%20%200.0%20%200.0%20884668%20%201432%20?%20%20%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:00%20node%20/root/stadata/front/santadata/front/node_modules/.bin/react-scripts%20start%0Aroot%20%20%20%20%20%207845%20%200.0%20%202.6%201338136%20111752%20?%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:36%20node%20/root/stadata/front/santadata/front/node_modules/react-scripts/scripts/start.js%0Aroot%20%20%20%20%20%207987%20%200.0%20%200.1%20105072%20%205672%20?%20%20%20%20%20%20%20%20Ss%20%20%2011:16%20%20%200:00%20sshd:%20root@pts/7%20%20%20%20%0Aroot%20%20%20%20%20%207998%20%200.0%20%200.0%20%2021228%20%202424%20pts/7%20%20%20%20Ss+%20%2011:16%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208326%20%200.0%20%200.1%20105456%20%206040%20?%20%20%20%20%20%20%20%20Ss%20%20%2011:37%20%20%200:00%20sshd:%20root@pts/8%20%20%20%20%0Aroot%20%20%20%20%20%208343%20%200.0%20%200.0%20%2021224%20%202412%20pts/8%20%20%20%20Ss+%20%2011:37%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208790%20%200.0%20%200.1%20104908%20%205512%20?%20%20%20%20%20%20%20%20Ss%20%20%2012:02%20%20%200:00%20sshd:%20root@pts/9%20%20%20%20%0Aroot%20%20%20%20%20%208801%20%200.0%20%200.0%20%2021224%20%202404%20pts/9%20%20%20%20Ss+%20%2012:02%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208829%20%200.2%20%200.2%20%2020220%2011852%20pts/9%20%20%20%20Sl%20%20%2012:03%20%20%200:01%20./ngrok%20http%207821%0Aroot%20%20%20%20%20%208966%20%200.3%20%200.7%201225872%2029492%20pts/9%20%20%20Sl%20%20%2012:09%20%20%200:00%20nodejs%20base_server.js%0Aroot%20%20%20%20%20%209030%20%200.0%20%200.0%20%20%204404%20%20%20644%20pts/9%20%20%20%20S%20%20%20%2012:12%20%20%200:00%20/bin/sh%20-c%20ps%20aux%0Aroot%20%20%20%20%20%209031%20%200.0%20%200.0%20%2018404%20%201304%20pts/9%20%20%20%20R%20%20%20%2012:12%20%20%200:00%20ps%20aux%0Aroot%20%20%20%20%2024829%20%200.0%20%200.7%201116724%2030148%20?%20%20%20%20%20%20%20Sl%20%20%20Feb09%20%20%200:01%20nodejs%20app.js%20production%0Aroot%20%20%20%20%2025268%20%200.0%20%200.2%201055308%209508%20?%20%20%20%20%20%20%20%20Sl%20%20%20Feb09%20%20%200:02%20nodejs%20app.js%20test%0A&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=ata%20%20%20641%20%200.0%20%200.0%20%2085492%20%202652%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:18%20nginx:%20worker%20process%0Awww-data%20%20%20642%20%200.0%20%200.0%20%2085500%20%202508%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:31%20nginx:%20worker%20process%0Awww-data%20%20%20643%20%200.0%20%200.0%20%2085552%20%202496%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%203:25%20nginx:%20worker%20process%0Aroot%20%20%20%20%20%20%20644%20%200.0%20%200.0%20%20%20%20%20%200%20%20%20%20%200%20?%20%20%20%20%20%20%20%20Z%20%20%20%20%202017%20%20%200:00%20%5Bsoffice.bin%5D%20%3Cdefunct%3E%0Aprosody%20%20%20%20724%20%200.0%20%200.1%20%2053144%20%208188%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%2034:24%20lua5.1%20/usr/bin/prosody%0Aredis%20%20%20%20%20%20745%20%200.0%20%200.0%20%2041052%20%201216%20?%20%20%20%20%20%20%20%20Ssl%20%20%202017%20%2037:55%20/usr/bin/redis-server%20127.0.0.1:6379%20%20%20%20%20%20%20%0Atomcat7%20%20%20%20794%20%200.1%20%203.1%203315328%20131372%20?%20%20%20%20%20%20Sl%20%20%20%202017%20109:46%20/usr/lib/jvm/default-java/bin/java%20-Djava.util.logging.config.file=/var/lib/tomcat7/conf/logging.properties%20-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager%20-Djava.awt.headless=true%20-Xmx128m%20-XX:+UseConcMarkSweepGC%20-Xms256m%20-Xmx256m%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/var/bigbluebutton/diagnostics%20-Djava.endorsed.dirs=/usr/share/tomcat7/endorsed%20-classpath%20/usr/share/tomcat7/bin/bootstrap.jar:/usr/share/tomcat7/bin/tomcat-juli.jar%20-Dcatalina.base=/var/lib/tomcat7%20-Dcatalina.home=/usr/share/tomcat7%20-Djava.io.tmpdir=/tmp/tomcat7-tomcat7-tmp%20org.apache.catalina.startup.Bootstrap%20start%0Ared5%20%20%20%20%20%20%20889%20%200.4%20%205.6%203400936%20237324%20?%20%20%20%20%20%20Sl%20%20%20%202017%20440:42%20/usr/lib/jvm/java-7-openjdk-amd64/bin/java%20-Dpython.home=lib%20-Xms320M%20-Xmx320M%20-XX:+TieredCompilation%20-XX:+UseBiasedLocking%20-XX:+UseParNewGC%20-Dorg.terracotta.quartz.skipUpdateCheck=true%20-XX:+HeapDumpOnOutOfMemoryError%20-XX:HeapDumpPath=/usr/share/red5/diagnostics%20-Dred5.root=/usr/share/red5%20-Dlogback.ContextSelector=org.red5.logging.LoggingContextSelector%20-Dcatalina.useNaming=true%20-Djava.security.debug=failure%20-cp%20/usr/share/red5/red5-service.jar:/usr/share/red5/conf%20org.red5.server.Bootstrap%0Aroot%20%20%20%20%20%20%20959%20%200.0%20%200.0%20%2030560%20%20%20880%20?%20%20%20%20%20%20%20%20S%20%20%20%20%202017%20%20%205:07%20/usr/bin/monit%20-c%20/etc/monit/monitrc%0Aroot%20%20%20%20%20%20%20974%20%200.0%20%200.0%20%2012744%20%20%20688%20tty1%20%20%20%20%20Ss+%20%20%202017%20%20%200:00%20/sbin/getty%2038400%20console%0Aroot%20%20%20%20%20%20%20976%20%200.0%20%200.0%20%2012744%20%20%20692%20tty2%20%20%20%20%20Ss+%20%20%202017%20%20%200:00%20/sbin/getty%2038400%20tty2%0Aroot%20%20%20%20%20%201131%20%200.0%20%200.0%20%2060196%20%201236%20?%20%20%20%20%20%20%20%20Ss%20%20%20%202017%20%20%200:00%20sudo%20-u%20bigbluebutton%20bin/bbb-apps-akka%0Abigblue+%20%201162%20%200.2%20%201.8%203196520%2078088%20?%20%20%20%20%20%20%20Sl%20%20%20%202017%20309:34%20java%20-Xms130m%20-Xmx256m%20-cp%20/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-apps-akka-1.0.0-62.jar:/usr/share/bbb-apps-akka/lib/org.scala-lang.scala-library-2.11.6.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.akka.akka-actor_2.11-2.3.11.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.config-1.2.1.jar:/usr/share/bbb-apps-akka/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.11.jar:/usr/share/bbb-apps-akka/lib/org.slf4j.slf4j-api-1.7.5.jar:/usr/share/bbb-apps-akka/lib/org.pegdown.pegdown-1.4.0.jar:/usr/share/bbb-apps-akka/lib/org.parboiled.parboiled-java-1.1.5.jar:/usr/share/bbb-apps-akka/lib/org.parboiled.parboiled-core-1.1.5.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-tree-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-analysis-4.1.jar:/usr/share/bbb-apps-akka/lib/org.ow2.asm.asm-util-4.1.jar:/usr/share/bbb-apps-akka/lib/junit.junit-4.11.jar:/usr/share/bbb-apps-akka/lib/org.hamcrest.hamcrest-core-1.3.jar:/usr/share/bbb-apps-akka/lib/com.etaty.rediscala.rediscala_2.11-1.4.0.jar:/usr/share/bbb-apps-akka/lib/commons-codec.commons-codec-1.8.jar:/usr/share/bbb-apps-akka/lib/joda-time.joda-time-2.3.jar:/usr/share/bbb-apps-akka/lib/com.google.code.gson.gson-1.7.1.jar:/usr/share/bbb-apps-akka/lib/redis.clients.jedis-2.7.2.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-pool2-2.3.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-classic-1.0.13.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-core-1.0.13.jar%20org.bigbluebutton.Boot%0Aroot%20%20%20%20%20%206958%20%200.0%20%200.1%20103744%20%204376%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:02%20%20%200:00%20sshd:%20root@pts/4%20%20%20%20%0Aroot%20%20%20%20%20%206970%20%200.0%20%200.0%20%2021224%20%202388%20pts/4%20%20%20%20Ss+%20%2010:02%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207051%20%200.0%20%200.1%20103744%20%204380%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:10%20%20%200:00%20sshd:%20root@pts/5%20%20%20%20%0Aroot%20%20%20%20%20%207062%20%200.0%20%200.0%20%2021224%20%202392%20pts/5%20%20%20%20Ss+%20%2010:10%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207220%20%200.0%20%200.1%20104268%20%204856%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:23%20%20%200:00%20sshd:%20root@pts/6%20%20%20%20%0Aroot%20%20%20%20%20%207233%20%200.0%20%200.0%20%2021224%20%202380%20pts/6%20%20%20%20Ss+%20%2010:23%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207827%20%200.0%20%200.0%201065248%201508%20?%20%20%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:00%20npm%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0Aroot%20%20%20%20%20%207837%20%200.0%20%200.0%20%20%204408%20%20%20464%20?%20%20%20%20%20%20%20%20S%20%20%20%20Jan30%20%20%200:00%20sh%20-c%20react-scripts%20start%0Aroot%20%20%20%20%20%207838%20%200.0%20%200.0%20884668%20%201432%20?%20%20%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:00%20node%20/root/stadata/front/santadata/front/node_modules/.bin/react-scripts%20start%0Aroot%20%20%20%20%20%207845%20%200.0%20%202.6%201338136%20111752%20?%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:36%20node%20/root/stadata/front/santadata/front/node_modules/react-scripts/scripts/start.js%0Aroot%20%20%20%20%20%207987%20%200.0%20%200.1%20105072%20%205672%20?%20%20%20%20%20%20%20%20Ss%20%20%2011:16%20%20%200:00%20sshd:%20root@pts/7%20%20%20%20%0Aroot%20%20%20%20%20%207998%20%200.0%20%200.0%20%2021228%20%202424%20pts/7%20%20%20%20Ss+%20%2011:16%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208326%20%200.0%20%200.1%20105456%20%206040%20?%20%20%20%20%20%20%20%20Ss%20%20%2011:37%20%20%200:00%20sshd:%20root@pts/8%20%20%20%20%0Aroot%20%20%20%20%20%208343%20%200.0%20%200.0%20%2021224%20%202412%20pts/8%20%20%20%20Ss+%20%2011:37%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208790%20%200.0%20%200.1%20104908%20%205512%20?%20%20%20%20%20%20%20%20Ss%20%20%2012:02%20%20%200:00%20sshd:%20root@pts/9%20%20%20%20%0Aroot%20%20%20%20%20%208801%20%200.0%20%200.0%20%2021224%20%202404%20pts/9%20%20%20%20Ss+%20%2012:02%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208829%20%200.2%20%200.2%20%2020220%2011852%20pts/9%20%20%20%20Sl%20%20%2012:03%20%20%200:01%20./ngrok%20http%207821%0Aroot%20%20%20%20%20%208966%20%200.3%20%200.7%201225872%2029492%20pts/9%20%20%20Sl%20%20%2012:09%20%20%200:00%20nodejs%20base_server.js%0Aroot%20%20%20%20%20%209030%20%200.0%20%200.0%20%20%204404%20%20%20644%20pts/9%20%20%20%20S%20%20%20%2012:12%20%20%200:00%20/bin/sh%20-c%20ps%20aux%0Aroot%20%20%20%20%20%209031%20%200.0%20%200.0%20%2018404%20%201304%20pts/9%20%20%20%20R%20%20%20%2012:12%20%20%200:00%20ps%20aux%0Aroot%20%20%20%20%2024829%20%200.0%20%200.7%201116724%2030148%20?%20%20%20%20%20%20%20Sl%20%20%20Feb09%20%20%200:01%20nodejs%20app.js%20production%0Aroot%20%20%20%20%2025268%20%200.0%20%200.2%201055308%209508%20?%20%20%20%20%20%20%20%20Sl%20%20%20Feb09%20%20%200:02%20nodejs%20app.js%20test%0A&parse_mode=HTML&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=ka/lib/redis.clients.jedis-2.7.2.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-pool2-2.3.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-classic-1.0.13.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-core-1.0.13.jar%20org.bigbluebutton.Boot%0Aroot%20%20%20%20%20%206958%20%200.0%20%200.1%20103744%20%204376%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:02%20%20%200:00%20sshd:%20root@pts/4%20%20%20%20%0Aroot%20%20%20%20%20%206970%20%200.0%20%200.0%20%2021224%20%202388%20pts/4%20%20%20%20Ss+%20%2010:02%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207051%20%200.0%20%200.1%20103744%20%204380%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:10%20%20%200:00%20sshd:%20root@pts/5%20%20%20%20%0Aroot%20%20%20%20%20%207062%20%200.0%20%200.0%20%2021224%20%202392%20pts/5%20%20%20%20Ss+%20%2010:10%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207220%20%200.0%20%200.1%20104268%20%204856%20?%20%20%20%20%20%20%20%20Ss%20%20%2010:23%20%20%200:00%20sshd:%20root@pts/6%20%20%20%20%0Aroot%20%20%20%20%20%207233%20%200.0%20%200.0%20%2021224%20%202380%20pts/6%20%20%20%20Ss+%20%2010:23%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%207827%20%200.0%20%200.0%201065248%201508%20?%20%20%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:00%20npm%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0Aroot%20%20%20%20%20%207837%20%200.0%20%200.0%20%20%204408%20%20%20464%20?%20%20%20%20%20%20%20%20S%20%20%20%20Jan30%20%20%200:00%20sh%20-c%20react-scripts%20start%0Aroot%20%20%20%20%20%207838%20%200.0%20%200.0%20884668%20%201432%20?%20%20%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:00%20node%20/root/stadata/front/santadata/front/node_modules/.bin/react-scripts%20start%0Aroot%20%20%20%20%20%207845%20%200.0%20%202.6%201338136%20111752%20?%20%20%20%20%20%20Sl%20%20%20Jan30%20%20%200:36%20node%20/root/stadata/front/santadata/front/node_modules/react-scripts/scripts/start.js%0Aroot%20%20%20%20%20%207987%20%200.0%20%200.1%20105072%20%205672%20?%20%20%20%20%20%20%20%20Ss%20%20%2011:16%20%20%200:00%20sshd:%20root@pts/7%20%20%20%20%0Aroot%20%20%20%20%20%207998%20%200.0%20%200.0%20%2021228%20%202424%20pts/7%20%20%20%20Ss+%20%2011:16%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208326%20%200.0%20%200.1%20105456%20%206040%20?%20%20%20%20%20%20%20%20Ss%20%20%2011:37%20%20%200:00%20sshd:%20root@pts/8%20%20%20%20%0Aroot%20%20%20%20%20%208343%20%200.0%20%200.0%20%2021224%20%202412%20pts/8%20%20%20%20Ss+%20%2011:37%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208790%20%200.0%20%200.1%20104908%20%205512%20?%20%20%20%20%20%20%20%20Ss%20%20%2012:02%20%20%200:00%20sshd:%20root@pts/9%20%20%20%20%0Aroot%20%20%20%20%20%208801%20%200.0%20%200.0%20%2021224%20%202404%20pts/9%20%20%20%20Ss+%20%2012:02%20%20%200:00%20-bash%0Aroot%20%20%20%20%20%208829%20%200.2%20%200.2%20%2020220%2011852%20pts/9%20%20%20%20Sl%20%20%2012:03%20%20%200:01%20./ngrok%20http%207821%0Aroot%20%20%20%20%20%208966%20%200.3%20%200.7%201225872%2029492%20pts/9%20%20%20Sl%20%20%2012:09%20%20%200:00%20nodejs%20base_server.js%0Aroot%20%20%20%20%20%209030%20%200.0%20%200.0%20%20%204404%20%20%20644%20pts/9%20%20%20%20S%20%20%20%2012:12%20%20%200:00%20/bin/sh%20-c%20ps%20aux%0Aroot%20%20%20%20%20%209031%20%200.0%20%200.0%20%2018404%20%201304%20pts/9%20%20%20%20R%20%20%20%2012:12%20%20%200:00%20ps%20aux%0Aroot%20%20%20%20%2024829%20%200.0%20%200.7%201116724%2030148%20?%20%20%20%20%20%20%20Sl%20%20%20Feb09%20%20%200:01%20nodejs%20app.js%20production%0Aroot%20%20%20%20%2025268%20%200.0%20%200.2%201055308%209508%20?%20%20%20%20%20%20%20%20Sl%20%20%20Feb09%20%20%200:02%20nodejs%20app.js%20test%0A&parse_mode=HTML&chat_id=373552498&
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Unsupported start tag \"defunct\" at byte offset 335"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: can\'t parse entities: Unsupported start tag "defunct" at byte offset 335' } }
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: chat_id is empty"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: chat_id is empty' } }
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: chat_id is empty"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: chat_id is empty' } }
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":20,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518801164,"text":"USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND\nroot         1  0.0  0.0  33404  1864 ?        Ss    2017   5:05 init\nroot         2  0.0  0.0      0     0 ?        S     2017   0:00 [kthreadd/112760]\nroot         3  0.0  0.0      0     0 ?        S     2017   0:00 [khelper/112760]\nroot       151  0.0  0.0  19436   404 ?        S     2017   0:00 upstart-udev-bridge --daemon\nroot       169  0.0  0.0  49696   712 ?        Ss    2017   0:00 /lib/systemd/systemd-udevd --daemon\nroot       250  0.0  0.0  15352   324 ?        S     2017   0:00 upstart-socket-bridge --daemon\nmessage    328  0.0  0.0  39388   864 ?        Ss    2017   0:00 dbus-daemon --system --fork\nroot       341  0.0  0.0  43604  1396 ?        Ss    2017   0:00 /lib/systemd/systemd-logind\nsyslog     348  0.0  0.0 184196  1032 ?        Ssl   2017   0:21 rsyslogd\nroot       395  0.0  0.0  15368   316 ?        S     2017   0:00 upstart-file-bridge --daemon\nmysql      443  0.0  0.1 654540  4412 ?        Ssl  Jan12  28:45 /usr/sbin/mysqld\nroot       444  0.0  0.0  61536  2488 ?        Ss    2017   0:23 /usr/sbin/sshd -D\nroot       446  0.0  0.0  60196  1236 ?        Ss    2017   0:00 sudo -u bigbluebutton bin/bbb-fsesl-akka\nmongodb    447  0.3  0.1 998428  6852 ?        Ssl   2017 366:44 /usr/bin/mongod --config /etc/mongod.conf\nbigblue    460  0.3  1.8 3207772 78036 ?       Sl    2017 345:47 java -Xms130m -Xmx256m -cp /usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-fsesl-akka-1.0.0-23.jar:/usr/share/bbb-fsesl-akka/lib/org.scala-lang.scala-library-2.11.6.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.akka.akka-actor_2.11-2.3.11.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.config-1.2.1.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.11.jar:/usr/share/bbb-fsesl-akka/lib/org.slf4j.slf4j-api-1.7.5.jar:/usr/share/bbb-fsesl-akka/lib/ch.qos.logback.logback-classic-1.0.3.jar:/usr/share/bbb-fsesl-akka/lib/ch.qos.logback.logback-core-1.0.3.jar:/usr/share/bbb-fsesl-akka/lib/org.pegdown.pegdown-1.4.0.jar:/usr/share/bbb-fsesl-akka/lib/org.parboiled.parboiled-java-1.1.5.jar:/usr/share/bbb-fsesl-akka/lib/org.parboiled.parboiled-core-1.1.5.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-tree-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-analysis-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-util-4.1.jar:/usr/share/bbb-fsesl-akka/lib/junit.junit-4.11.jar:/usr/share/bbb-fsesl-akka/lib/org.hamcrest.hamcrest-core-1.3.jar:/usr/share/bbb-fsesl-akka/lib/com.etaty.rediscala.rediscala_2.11-1.4.0.jar:/usr/share/bbb-fsesl-akka/lib/commons-codec.commons-codec-1.8.jar:/usr/share/bbb-fsesl-akka/lib/joda-time.joda-time-2.3.jar:/usr/share/bbb-fsesl-akka/lib/com.google.code.gson.gson-1.7.1.jar:/usr/share/bbb-fsesl-akka/lib/redis.clients.jedis-2.1.0.jar:/usr/share/bbb-fsesl-akka/lib/commons-pool.commons-pool-1.5.5.jar:/usr/share/bbb-fsesl-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-fsesl-client-0.0.3.jar:/usr/share/bbb-fsesl-akka/lib/org.jboss.netty.netty-3.2.1.Final.jar org.bigbluebutton.Boot\nfreeswi    545  1.0  0.2 2661684 10764 ?       SNl   2017 1062:13 /opt/freeswitch/bin/freeswitch -nc\nroot       563  0.0  0.0 144436   928 ?        Sl    2017   0:10 /usr/lib/libreoffice/program/oosplash --headless --nologo --nofirststartwizard --accept=socket,host=1"}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 20,
+        from: [Object],
+        chat: [Object],
+        date: 1518801164,
+        text: 'USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND\nroot         1  0.0  0.0  33404  1864 ?        Ss    2017   5:05 init\nroot         2  0.0  0.0      0     0 ?        S     2017   0:00 [kthreadd/112760]\nroot         3  0.0  0.0      0     0 ?        S     2017   0:00 [khelper/112760]\nroot       151  0.0  0.0  19436   404 ?        S     2017   0:00 upstart-udev-bridge --daemon\nroot       169  0.0  0.0  49696   712 ?        Ss    2017   0:00 /lib/systemd/systemd-udevd --daemon\nroot       250  0.0  0.0  15352   324 ?        S     2017   0:00 upstart-socket-bridge --daemon\nmessage    328  0.0  0.0  39388   864 ?        Ss    2017   0:00 dbus-daemon --system --fork\nroot       341  0.0  0.0  43604  1396 ?        Ss    2017   0:00 /lib/systemd/systemd-logind\nsyslog     348  0.0  0.0 184196  1032 ?        Ssl   2017   0:21 rsyslogd\nroot       395  0.0  0.0  15368   316 ?        S     2017   0:00 upstart-file-bridge --daemon\nmysql      443  0.0  0.1 654540  4412 ?        Ssl  Jan12  28:45 /usr/sbin/mysqld\nroot       444  0.0  0.0  61536  2488 ?        Ss    2017   0:23 /usr/sbin/sshd -D\nroot       446  0.0  0.0  60196  1236 ?        Ss    2017   0:00 sudo -u bigbluebutton bin/bbb-fsesl-akka\nmongodb    447  0.3  0.1 998428  6852 ?        Ssl   2017 366:44 /usr/bin/mongod --config /etc/mongod.conf\nbigblue    460  0.3  1.8 3207772 78036 ?       Sl    2017 345:47 java -Xms130m -Xmx256m -cp /usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-fsesl-akka-1.0.0-23.jar:/usr/share/bbb-fsesl-akka/lib/org.scala-lang.scala-library-2.11.6.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.akka.akka-actor_2.11-2.3.11.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.config-1.2.1.jar:/usr/share/bbb-fsesl-akka/lib/com.typesafe.akka.akka-slf4j_2.11-2.3.11.jar:/usr/share/bbb-fsesl-akka/lib/org.slf4j.slf4j-api-1.7.5.jar:/usr/share/bbb-fsesl-akka/lib/ch.qos.logback.logback-classic-1.0.3.jar:/usr/share/bbb-fsesl-akka/lib/ch.qos.logback.logback-core-1.0.3.jar:/usr/share/bbb-fsesl-akka/lib/org.pegdown.pegdown-1.4.0.jar:/usr/share/bbb-fsesl-akka/lib/org.parboiled.parboiled-java-1.1.5.jar:/usr/share/bbb-fsesl-akka/lib/org.parboiled.parboiled-core-1.1.5.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-tree-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-analysis-4.1.jar:/usr/share/bbb-fsesl-akka/lib/org.ow2.asm.asm-util-4.1.jar:/usr/share/bbb-fsesl-akka/lib/junit.junit-4.11.jar:/usr/share/bbb-fsesl-akka/lib/org.hamcrest.hamcrest-core-1.3.jar:/usr/share/bbb-fsesl-akka/lib/com.etaty.rediscala.rediscala_2.11-1.4.0.jar:/usr/share/bbb-fsesl-akka/lib/commons-codec.commons-codec-1.8.jar:/usr/share/bbb-fsesl-akka/lib/joda-time.joda-time-2.3.jar:/usr/share/bbb-fsesl-akka/lib/com.google.code.gson.gson-1.7.1.jar:/usr/share/bbb-fsesl-akka/lib/redis.clients.jedis-2.1.0.jar:/usr/share/bbb-fsesl-akka/lib/commons-pool.commons-pool-1.5.5.jar:/usr/share/bbb-fsesl-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-fsesl-akka/lib/org.bigbluebutton.bbb-fsesl-client-0.0.3.jar:/usr/share/bbb-fsesl-akka/lib/org.jboss.netty.netty-3.2.1.Final.jar org.bigbluebutton.Boot\nfreeswi    545  1.0  0.2 2661684 10764 ?       SNl   2017 1062:13 /opt/freeswitch/bin/freeswitch -nc\nroot       563  0.0  0.0 144436   928 ?        Sl    2017   0:10 /usr/lib/libreoffice/program/oosplash --headless --nologo --nofirststartwizard --accept=socket,host=1' } } }
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: message is too long"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: message is too long' } }
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":21,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518801164,"text":"ka/lib/redis.clients.jedis-2.7.2.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-pool2-2.3.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-classic-1.0.13.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-core-1.0.13.jar org.bigbluebutton.Boot\nroot      6958  0.0  0.1 103744  4376 ?        Ss   10:02   0:00 sshd: root@pts/4    \nroot      6970  0.0  0.0  21224  2388 pts/4    Ss   10:02   0:00 -bash\nroot      7051  0.0  0.1 103744  4380 ?        Ss   10:10   0:00 sshd: root@pts/5    \nroot      7062  0.0  0.0  21224  2392 pts/5    Ss   10:10   0:00 -bash\nroot      7220  0.0  0.1 104268  4856 ?        Ss   10:23   0:00 sshd: root@pts/6    \nroot      7233  0.0  0.0  21224  2380 pts/6    Ss   10:23   0:00 -bash\nroot      7827  0.0  0.0 1065248 1508 ?        Sl   Jan30   0:00 npm                          \nroot      7837  0.0  0.0   4408   464 ?        S    Jan30   0:00 sh -c react-scripts start\nroot      7838  0.0  0.0 884668  1432 ?        Sl   Jan30   0:00 node /root/stadata/front/santadata/front/node_modules/.bin/react-scripts start\nroot      7845  0.0  2.6 1338136 111752 ?      Sl   Jan30   0:36 node /root/stadata/front/santadata/front/node_modules/react-scripts/scripts/start.js\nroot      7987  0.0  0.1 105072  5672 ?        Ss   11:16   0:00 sshd: root@pts/7    \nroot      7998  0.0  0.0  21228  2424 pts/7    Ss   11:16   0:00 -bash\nroot      8326  0.0  0.1 105456  6040 ?        Ss   11:37   0:00 sshd: root@pts/8    \nroot      8343  0.0  0.0  21224  2412 pts/8    Ss   11:37   0:00 -bash\nroot      8790  0.0  0.1 104908  5512 ?        Ss   12:02   0:00 sshd: root@pts/9    \nroot      8801  0.0  0.0  21224  2404 pts/9    Ss   12:02   0:00 -bash\nroot      8829  0.2  0.2  20220 11852 pts/9    Sl   12:03   0:01 ./ngrok http 7821\nroot      8966  0.3  0.7 1225872 29492 pts/9   Sl   12:09   0:00 nodejs base_server.js\nroot      9030  0.0  0.0   4404   644 pts/9    S    12:12   0:00 /bin/sh -c ps aux\nroot      9031  0.0  0.0  18404  1304 pts/9    R    12:12   0:00 ps aux\nroot     24829  0.0  0.7 1116724 30148 ?       Sl   Feb09   0:01 nodejs app.js production\nroot     25268  0.0  0.2 1055308 9508 ?        Sl   Feb09   0:02 nodejs app.js test","entities":[{"offset":1904,"length":6,"type":"bot_command"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 21,
+        from: [Object],
+        chat: [Object],
+        date: 1518801164,
+        text: 'ka/lib/redis.clients.jedis-2.7.2.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-pool2-2.3.jar:/usr/share/bbb-apps-akka/lib/org.apache.commons.commons-lang3-3.2.jar:/usr/share/bbb-apps-akka/lib/org.bigbluebutton.bbb-common-message-0.0.16.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-classic-1.0.13.jar:/usr/share/bbb-apps-akka/lib/ch.qos.logback.logback-core-1.0.13.jar org.bigbluebutton.Boot\nroot      6958  0.0  0.1 103744  4376 ?        Ss   10:02   0:00 sshd: root@pts/4    \nroot      6970  0.0  0.0  21224  2388 pts/4    Ss   10:02   0:00 -bash\nroot      7051  0.0  0.1 103744  4380 ?        Ss   10:10   0:00 sshd: root@pts/5    \nroot      7062  0.0  0.0  21224  2392 pts/5    Ss   10:10   0:00 -bash\nroot      7220  0.0  0.1 104268  4856 ?        Ss   10:23   0:00 sshd: root@pts/6    \nroot      7233  0.0  0.0  21224  2380 pts/6    Ss   10:23   0:00 -bash\nroot      7827  0.0  0.0 1065248 1508 ?        Sl   Jan30   0:00 npm                          \nroot      7837  0.0  0.0   4408   464 ?        S    Jan30   0:00 sh -c react-scripts start\nroot      7838  0.0  0.0 884668  1432 ?        Sl   Jan30   0:00 node /root/stadata/front/santadata/front/node_modules/.bin/react-scripts start\nroot      7845  0.0  2.6 1338136 111752 ?      Sl   Jan30   0:36 node /root/stadata/front/santadata/front/node_modules/react-scripts/scripts/start.js\nroot      7987  0.0  0.1 105072  5672 ?        Ss   11:16   0:00 sshd: root@pts/7    \nroot      7998  0.0  0.0  21228  2424 pts/7    Ss   11:16   0:00 -bash\nroot      8326  0.0  0.1 105456  6040 ?        Ss   11:37   0:00 sshd: root@pts/8    \nroot      8343  0.0  0.0  21224  2412 pts/8    Ss   11:37   0:00 -bash\nroot      8790  0.0  0.1 104908  5512 ?        Ss   12:02   0:00 sshd: root@pts/9    \nroot      8801  0.0  0.0  21224  2404 pts/9    Ss   12:02   0:00 -bash\nroot      8829  0.2  0.2  20220 11852 pts/9    Sl   12:03   0:01 ./ngrok http 7821\nroot      8966  0.3  0.7 1225872 29492 pts/9   Sl   12:09   0:00 nodejs base_server.js\nroot      9030  0.0  0.0   4404   644 pts/9    S    12:12   0:00 /bin/sh -c ps aux\nroot      9031  0.0  0.0  18404  1304 pts/9    R    12:12   0:00 ps aux\nroot     24829  0.0  0.7 1116724 30148 ?       Sl   Feb09   0:01 nodejs app.js production\nroot     25268  0.0  0.2 1055308 9508 ?        Sl   Feb09   0:02 nodejs app.js test',
+        entities: [Object] } } }
+{ update_id: 49848908,
+  message: 
+   { message_id: 22,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518801178,
+     text: '/kill 8966',
+     entities: [ [Object] ] } }
+Telegram Server listening on port 7821!
+{ update_id: 49848920,
+  message: 
+   { message_id: 52,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518802597,
+     text: '/start',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Fala%20Jo%C3%A3o%20Carlos%20Beleza?%20%0A%20Sou%20o%20bot%20respons%C3%A1vel%20por%20gerir%20as%20atualiza%C3%A7%C3%B5es%20do%20servidor&chat_id=373552498&
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendPhoto?photo=AgADAQADvKcxG_YDuEbFeXgYtbq9ubYU9y8ABEYBMoRRmxRDvfUAAgI&chat_id=373552498&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":53,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518802598,"text":"Fala Jo\u00e3o Carlos Beleza? \n Sou o bot respons\u00e1vel por gerir as atualiza\u00e7\u00f5es do servidor"}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 53,
+        from: [Object],
+        chat: [Object],
+        date: 1518802598,
+        text: 'Fala João Carlos Beleza? \n Sou o bot responsável por gerir as atualizações do servidor' } } }
+Got response: 400
+DEBUG: {"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: false,
+     error_code: 400,
+     description: 'Bad Request: wrong file identifier/HTTP URL specified' } }
+Telegram Server listening on port 7821!
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848926,
+  message: 
+   { message_id: 59,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802910,
+     text: '/init',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Oi%20Jo%C3%A3o%20Carlos%20eu%20ainda%20n%C3%A3o%20aprendi%20sobre%20isso,%20mas%20voc%C3%AA%20pode%20me%20enviar%20sugest%C3%B5es%20em%20santacasalabs@gmail.com&chat_id=-301460583&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":60,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":-301460583,"title":"TeamTech","type":"group","all_members_are_administrators":true},"date":1518802910,"text":"Oi Jo\u00e3o Carlos eu ainda n\u00e3o aprendi sobre isso, mas voc\u00ea pode me enviar sugest\u00f5es em santacasalabs@gmail.com","entities":[{"offset":85,"length":23,"type":"email"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 60,
+        from: [Object],
+        chat: [Object],
+        date: 1518802910,
+        text: 'Oi João Carlos eu ainda não aprendi sobre isso, mas você pode me enviar sugestões em santacasalabs@gmail.com',
+        entities: [Object] } } }
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848927,
+  message: 
+   { message_id: 61,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802917,
+     text: '/start',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Fala%20Jo%C3%A3o%20Carlos%20Beleza?%20%0ASou%20o%20bot%20respons%C3%A1vel%20por%20gerir%20as%20atualiza%C3%A7%C3%B5es%20do%20servidor.%20%0ADigite%20/help%20para%20saber%20como%20eu%20funciono.%20:D&chat_id=-301460583&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":62,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":-301460583,"title":"TeamTech","type":"group","all_members_are_administrators":true},"date":1518802918,"text":"Fala Jo\u00e3o Carlos Beleza? \nSou o bot respons\u00e1vel por gerir as atualiza\u00e7\u00f5es do servidor. \nDigite /help para saber como eu funciono. :D","entities":[{"offset":95,"length":5,"type":"bot_command"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 62,
+        from: [Object],
+        chat: [Object],
+        date: 1518802918,
+        text: 'Fala João Carlos Beleza? \nSou o bot responsável por gerir as atualizações do servidor. \nDigite /help para saber como eu funciono. :D',
+        entities: [Object] } } }
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848923,
+  message: 
+   { message_id: 56,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518802806,
+     text: 'Oi' } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Oi%20Jo%C3%A3o%20Carlos%20eu%20ainda%20n%C3%A3o%20aprendi%20sobre%20isso,%20mas%20voc%C3%AA%20pode%20me%20enviar%20sugest%C3%B5es%20em%20santacasalabs@gmail.com&chat_id=373552498&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":63,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518802930,"text":"Oi Jo\u00e3o Carlos eu ainda n\u00e3o aprendi sobre isso, mas voc\u00ea pode me enviar sugest\u00f5es em santacasalabs@gmail.com","entities":[{"offset":85,"length":23,"type":"email"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 63,
+        from: [Object],
+        chat: [Object],
+        date: 1518802930,
+        text: 'Oi João Carlos eu ainda não aprendi sobre isso, mas você pode me enviar sugestões em santacasalabs@gmail.com',
+        entities: [Object] } } }
+{ update_id: 49848921,
+  message: 
+   { message_id: 54,
+     from: { id: 257274914, is_bot: false, first_name: 'fb.' },
+     chat: { id: 257274914, first_name: 'fb.', type: 'private' },
+     date: 1518802748,
+     text: '/start',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Fala%20fb.%20Beleza?%20%0ASou%20o%20bot%20respons%C3%A1vel%20por%20gerir%20as%20atualiza%C3%A7%C3%B5es%20do%20servidor.%20%0ADigite%20/help%20para%20saber%20como%20eu%20funciono.%20:D&chat_id=257274914&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":64,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":257274914,"first_name":"fb.","type":"private"},"date":1518802932,"text":"Fala fb. Beleza? \nSou o bot respons\u00e1vel por gerir as atualiza\u00e7\u00f5es do servidor. \nDigite /help para saber como eu funciono. :D","entities":[{"offset":87,"length":5,"type":"bot_command"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 64,
+        from: [Object],
+        chat: [Object],
+        date: 1518802932,
+        text: 'Fala fb. Beleza? \nSou o bot responsável por gerir as atualizações do servidor. \nDigite /help para saber como eu funciono. :D',
+        entities: [Object] } } }
+{ update_id: 49848922,
+  message: 
+   { message_id: 55,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: { id: 257274914, first_name: 'fb.', type: 'private' },
+     date: 1518802750,
+     text: 'oi' } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Oi%20fb.%20eu%20ainda%20n%C3%A3o%20aprendi%20sobre%20isso,%20mas%20voc%C3%AA%20pode%20me%20enviar%20sugest%C3%B5es%20em%20santacasalabs@gmail.com&chat_id=257274914&
+ok
+{ update_id: 49848924,
+  message: 
+   { message_id: 57,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: { id: 373552498, first_name: 'João Carlos', type: 'private' },
+     date: 1518802811,
+     text: '/start',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Fala%20Jo%C3%A3o%20Carlos%20Beleza?%20%0ASou%20o%20bot%20respons%C3%A1vel%20por%20gerir%20as%20atualiza%C3%A7%C3%B5es%20do%20servidor.%20%0ADigite%20/help%20para%20saber%20como%20eu%20funciono.%20:D&chat_id=373552498&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":65,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":257274914,"first_name":"fb.","type":"private"},"date":1518802934,"text":"Oi fb. eu ainda n\u00e3o aprendi sobre isso, mas voc\u00ea pode me enviar sugest\u00f5es em santacasalabs@gmail.com","entities":[{"offset":77,"length":23,"type":"email"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 65,
+        from: [Object],
+        chat: [Object],
+        date: 1518802934,
+        text: 'Oi fb. eu ainda não aprendi sobre isso, mas você pode me enviar sugestões em santacasalabs@gmail.com',
+        entities: [Object] } } }
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":66,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":373552498,"first_name":"Jo\u00e3o Carlos","type":"private"},"date":1518802934,"text":"Fala Jo\u00e3o Carlos Beleza? \nSou o bot respons\u00e1vel por gerir as atualiza\u00e7\u00f5es do servidor. \nDigite /help para saber como eu funciono. :D","entities":[{"offset":95,"length":5,"type":"bot_command"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 66,
+        from: [Object],
+        chat: [Object],
+        date: 1518802934,
+        text: 'Fala João Carlos Beleza? \nSou o bot responsável por gerir as atualizações do servidor. \nDigite /help para saber como eu funciono. :D',
+        entities: [Object] } } }
+{ update_id: 49848928,
+  message: 
+   { message_id: 67,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802937,
+     text: '/help',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=/status%20-%3E%20*Exibe%20processos*%20%0A/start%20_%3Ctest,prod%3E_%20-%3E%20*Inicia%20servidor*%20%20%0A/git%20_%3Ctest,prod,front%3E_%20-%3E%20*Atualiza%20servidor*%20%0A/kill%20_%3Cid%3E_%20-%3E%20*Mata%20processo*%20%0A/log%20_%3Ctest,prod%3E_%20-%3E%20*Exibe%20log*&parse_mode=Markdown&chat_id=-301460583&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":68,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":-301460583,"title":"TeamTech","type":"group","all_members_are_administrators":true},"date":1518802937,"text":"/status -> Exibe processos \n/start <test,prod> -> Inicia servidor  \n/git <test,prod,front> -> Atualiza servidor \n/kill <id> -> Mata processo \n/log <test,prod> -> Exibe log","entities":[{"offset":0,"length":7,"type":"bot_command"},{"offset":11,"length":15,"type":"bold"},{"offset":28,"length":6,"type":"bot_command"},{"offset":35,"length":11,"type":"italic"},{"offset":50,"length":15,"type":"bold"},{"offset":68,"length":4,"type":"bot_command"},{"offset":73,"length":17,"type":"italic"},{"offset":94,"length":17,"type":"bold"},{"offset":113,"length":5,"type":"bot_command"},{"offset":119,"length":4,"type":"italic"},{"offset":127,"length":13,"type":"bold"},{"offset":142,"length":4,"type":"bot_command"},{"offset":147,"length":11,"type":"italic"},{"offset":162,"length":9,"type":"bold"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 68,
+        from: [Object],
+        chat: [Object],
+        date: 1518802937,
+        text: '/status -> Exibe processos \n/start <test,prod> -> Inicia servidor  \n/git <test,prod,front> -> Atualiza servidor \n/kill <id> -> Mata processo \n/log <test,prod> -> Exibe log',
+        entities: [Object] } } }
+{ update_id: 49848929,
+  message: 
+   { message_id: 69,
+     from: 
+      { id: 234974056,
+        is_bot: false,
+        first_name: 'Gary',
+        last_name: 'M. Silva',
+        username: 'GaryMSilva' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802941,
+     text: '/eai',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=Oi%20Gary%20eu%20ainda%20n%C3%A3o%20aprendi%20sobre%20isso,%20mas%20voc%C3%AA%20pode%20me%20enviar%20sugest%C3%B5es%20em%20santacasalabs@gmail.com&chat_id=-301460583&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":70,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":-301460583,"title":"TeamTech","type":"group","all_members_are_administrators":true},"date":1518802943,"text":"Oi Gary eu ainda n\u00e3o aprendi sobre isso, mas voc\u00ea pode me enviar sugest\u00f5es em santacasalabs@gmail.com","entities":[{"offset":78,"length":23,"type":"email"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 70,
+        from: [Object],
+        chat: [Object],
+        date: 1518802943,
+        text: 'Oi Gary eu ainda não aprendi sobre isso, mas você pode me enviar sugestões em santacasalabs@gmail.com',
+        entities: [Object] } } }
+{ update_id: 49848930,
+  message: 
+   { message_id: 71,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: { id: 257274914, first_name: 'fb.', type: 'private' },
+     date: 1518802950,
+     text: '/help',
+     entities: [ [Object] ] } }
+https://api.telegram.org/bot544775994:AAFaUKkceHUSIh4lffSiorJ-ykvakJusMxU/sendMessage?text=/status%20-%3E%20*Exibe%20processos*%20%0A/start%20_%3Ctest,prod%3E_%20-%3E%20*Inicia%20servidor*%20%20%0A/git%20_%3Ctest,prod,front%3E_%20-%3E%20*Atualiza%20servidor*%20%0A/kill%20_%3Cid%3E_%20-%3E%20*Mata%20processo*%20%0A/log%20_%3Ctest,prod%3E_%20-%3E%20*Exibe%20log*&parse_mode=Markdown&chat_id=257274914&
+ok
+Got response: 200
+DEBUG: {"ok":true,"result":{"message_id":72,"from":{"id":544775994,"is_bot":true,"first_name":"Sta data test bot","username":"Stadata_test_bot"},"chat":{"id":257274914,"first_name":"fb.","type":"private"},"date":1518802950,"text":"/status -> Exibe processos \n/start <test,prod> -> Inicia servidor  \n/git <test,prod,front> -> Atualiza servidor \n/kill <id> -> Mata processo \n/log <test,prod> -> Exibe log","entities":[{"offset":0,"length":7,"type":"bot_command"},{"offset":11,"length":15,"type":"bold"},{"offset":28,"length":6,"type":"bot_command"},{"offset":35,"length":11,"type":"italic"},{"offset":50,"length":15,"type":"bold"},{"offset":68,"length":4,"type":"bot_command"},{"offset":73,"length":17,"type":"italic"},{"offset":94,"length":17,"type":"bold"},{"offset":113,"length":5,"type":"bot_command"},{"offset":119,"length":4,"type":"italic"},{"offset":127,"length":13,"type":"bold"},{"offset":142,"length":4,"type":"bot_command"},{"offset":147,"length":11,"type":"italic"},{"offset":162,"length":9,"type":"bold"}]}}
+{ success: 1,
+  error: 0,
+  data: 
+   { ok: true,
+     result: 
+      { message_id: 72,
+        from: [Object],
+        chat: [Object],
+        date: 1518802950,
+        text: '/status -> Exibe processos \n/start <test,prod> -> Inicia servidor  \n/git <test,prod,front> -> Atualiza servidor \n/kill <id> -> Mata processo \n/log <test,prod> -> Exibe log',
+        entities: [Object] } } }
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848931,
+  message: 
+   { message_id: 73,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: 
+      { id: -315973502,
+        title: 'garagem da inovação',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518803000,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848931,
+  message: 
+   { message_id: 73,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: 
+      { id: -315973502,
+        title: 'garagem da inovação',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518803000,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848931,
+  message: 
+   { message_id: 73,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: 
+      { id: -315973502,
+        title: 'garagem da inovação',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518803000,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848931,
+  message: 
+   { message_id: 73,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: 
+      { id: -315973502,
+        title: 'garagem da inovação',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518803000,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848925,
+  message: 
+   { message_id: 58,
+     from: 
+      { id: 373552498,
+        is_bot: false,
+        first_name: 'João Carlos',
+        language_code: 'pt-BR' },
+     chat: 
+      { id: -301460583,
+        title: 'TeamTech',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518802898,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+{ update_id: 49848931,
+  message: 
+   { message_id: 73,
+     from: 
+      { id: 257274914,
+        is_bot: false,
+        first_name: 'fb.',
+        language_code: 'en-US' },
+     chat: 
+      { id: -315973502,
+        title: 'garagem da inovação',
+        type: 'group',
+        all_members_are_administrators: true },
+     date: 1518803000,
+     new_chat_participant: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_member: 
+      { id: 544775994,
+        is_bot: true,
+        first_name: 'Sta data test bot',
+        username: 'Stadata_test_bot' },
+     new_chat_members: [ [Object] ] } }
+TypeError: Cannot read property 'split' of undefined
+    at /root/stadata/Telegram-bot/base_server.js:86:34
+    at Layer.handle [as handle_request] (/root/stadata/Telegram-bot/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:137:13)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
+    at next (/root/stadata/Telegram-bot/node_modules/express/lib/router/route.js:131:14)
