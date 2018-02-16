@@ -1,7 +1,7 @@
 {
-  "name": "Pe_diabetico_bot",
+  "name": "Santa data Bot server",
   "version": "1.0.0",
-  "description": "Telegram Pe Diabetico",
+  "description": "Santa data bot server",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.1",
+    "https": "^1.0.0",
     "mysql": "^2.14.1",
     "node-webhooks": "^1.2.4",
     "superagent": "^3.6.3"

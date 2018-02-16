@@ -1,6 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 var exec = require('child_process').exec;
+var https = require('https');
 
 var telegramAPI = require("./libs/telegramAPI.js");
 var interface = require("./libs/interface.js"); 
@@ -186,6 +187,8 @@ app.all('/test2', function (req, res) {
   	res.send('Ok')
 })
 
-app.listen(7821, function () {
+var httpsServer = https.createServer(config.credentials, app);
+
+httpsServer.listen(7821, function () {
   console.log('Telegram Server listening on port 7821!')
 })
