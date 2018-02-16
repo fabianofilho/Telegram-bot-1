@@ -137,6 +137,11 @@ app.all('/rest', function (req, res) {
 
 				}
 
+			case "/eai":
+				msg = "E la vamos nós..."
+				data = [{key:"text=",value:msg},{key:"parse_mode=",value:"Markdown"},{key:"chat_id=",value:req.body.message.chat.id}]
+				telegramAPI.consumeAPI(servicesAPI.sendMessage,data,interface.show);
+			break;
 			case "/help":
 				msg = "/status -> *Exibe processos* \n/start _<test,prod>_ -> *Inicia servidor*  \n/git _<test,prod,front>_ -> *Atualiza servidor* \n/kill _<id>_ -> *Mata processo* \n/log _<test,prod>_ -> *Exibe log*"
 				data = [{key:"text=",value:msg},{key:"parse_mode=",value:"Markdown"},{key:"chat_id=",value:req.body.message.chat.id}]
@@ -150,7 +155,7 @@ app.all('/rest', function (req, res) {
 			break
 		}
 
-    chat_id = req.body.message.chat.id
+    	chat_id = req.body.message.chat.id
 		if(cmd != "")
 			exec(cmd,function(error, stdout, stderr) {	
 				msg = stdout
@@ -159,7 +164,8 @@ app.all('/rest', function (req, res) {
 					console.log(stderr)
 					msg = stderr
 				}
-    msg = msg.replace(/#/g, '-');
+    		
+    		msg = msg.replace(/#/g, '-');
 			telegramAPI.sendLongMessage(servicesAPI.sendMessage,msg,chat_id,interface.show)
 			})
 		
