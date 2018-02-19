@@ -7,6 +7,7 @@ module.exports = {
 	download_path: "files/download/",
 	processed_path: "files/processed/",
 	tut_img_path: "files/tutorial.png",
+	tut_question_path: "files/elavamosnos.jpg",
 	tut_img_id: "AgADAQADvKcxG_YDuEbFeXgYtbq9ubYU9y8ABEYBMoRRmxRDvfUAAgI",
 	credentials:{
 		key: fs.readFileSync('./sslcert/server.key', 'utf8'), 

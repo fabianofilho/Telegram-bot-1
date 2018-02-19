@@ -141,6 +141,13 @@ app.all('/rest', function (req, res) {
 				msg = "E la vamos nós..."
 				data = [{key:"text=",value:msg},{key:"parse_mode=",value:"Markdown"},{key:"chat_id=",value:req.body.message.chat.id}]
 				telegramAPI.consumeAPI(servicesAPI.sendMessage,data,interface.show);
+				//Sending Image
+				data_file = {path_img:config.tut_question_path,chat_id:req.body.message.chat.id}
+  				telegramAPI.uploadImage(data_file,function(result){
+					//console.log(chat_id)
+					console.log(result)
+					console.log("IMAGE DATA: "+result.photo)
+  					});
 			break;
 			case "/help":
 				msg = "/status -> *Exibe processos* \n/start _<test,prod>_ -> *Inicia servidor*  \n/git _<test,prod,front>_ -> *Atualiza servidor* \n/kill _<id>_ -> *Mata processo* \n/log _<test,prod>_ -> *Exibe log*"
