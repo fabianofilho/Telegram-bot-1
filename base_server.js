@@ -124,18 +124,19 @@ app.all('/rest', function (req, res) {
 			case "/git":
 				switch(command[1]){
 					case "test":
-						cmd = "cd ../test/rest/ ; git stash ; git pull origin rest -q ; echo Ok"
+						cmd = "cd ../test/rest/ ; git pull origin rest -q ; echo Ok"
 					break
 
 					case "prod":
-						cmd = "cd ../santadata/rest/ ; git stash ; git pull origin rest -q ; echo Ok"
+						cmd = "cd ../santadata/rest/ ; git pull origin rest -q ; echo Ok"
 					break
 					
 					case "front":
-						cmd = "cd ../front/santadata/front/ ; git stash ; git pull origin develop -q ; echo Ok"
+						cmd = "cd ../front/santadata/front/ ; git pull origin develop -q ; echo Ok"
 					break
 
 				}
+			break
 
 			case "/eai":
 				msg = "E la vamos nós..."
