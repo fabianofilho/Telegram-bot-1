@@ -87,7 +87,7 @@ app.all('/rest', function (req, res) {
 		cmd = ""
 		switch(command[0]){
 			case "/status":
-				cmd = "ps aux"
+				cmd = "ps aux |grep \"nodejs app.js\""
 			break
 
 			case "/log":
