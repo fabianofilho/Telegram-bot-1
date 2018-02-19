@@ -93,7 +93,7 @@ app.all('/rest', function (req, res) {
 			case "/log":
 				switch(command[1]){
 					case "prod":
-						cmd = "cat ../santadata/rest/nohup.out"
+						cmd = "cat ../santadata/rest/nohup.out ; cat ../santadata/rest/out.txt"
 					break
 
 					case "test":
