@@ -97,7 +97,7 @@ app.all('/rest', function (req, res) {
 					break
 
 					case "test":
-						cmd = "cat ../test/rest/nohup.out"
+						cmd = "cat ../test/rest/nohup.out ; cat ../test/rest/out.txt"
 					break
 				}
 				
