@@ -139,7 +139,7 @@ app.all('/rest', function (req, res) {
 			break
 
 			case "/eai":
-				msg = "E la vamos nós..."
+				msg = "E lá vamos nós..."
 				data = [{key:"text=",value:msg},{key:"parse_mode=",value:"Markdown"},{key:"chat_id=",value:req.body.message.chat.id}]
 				telegramAPI.consumeAPI(servicesAPI.sendMessage,data,interface.show);
 				//Sending Image
