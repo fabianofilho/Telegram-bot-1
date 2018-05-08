@@ -11,14 +11,15 @@ const servicesAPI = require("./constants/servicesAPI.js");
 const messages = require("./constants/messages.js");
 const config = require("./constants/config.js");
 
+const serverPort = 7821;
 
 //Config LocalTunnel
-var tunnel = localtunnel(7821,function(err, tunnel){
+var tunnel = localtunnel(serverPort,function(err, tunnel){
     if(err){
         console.log("Erro no tunnel");
         return;
     }
-    data = [{key:"url=",tunnel.url+"/rest?"}]
+    data = [{key:"url=",value:tunnel.url+"/rest?"}]
     telegramAPI.consumeAPI(servicesAPI.setWebhook,data,interface.show);  
 });
 
@@ -226,6 +227,6 @@ app.all('/test2', function (req, res) {
 
 //var httpsServer = https.createServer(config.credentials, app);
 
-app.listen(7821, function () {
+app.listen(serverPort, function () {
   console.log('Telegram Server listening on port 7821!')
 })
