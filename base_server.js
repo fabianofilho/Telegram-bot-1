@@ -2,6 +2,7 @@ const express = require('express')
 const bodyParser = require('body-parser')
 var exec = require('child_process').exec;
 var https = require('https');
+var localtunnel = require('localtunnel');
 
 var telegramAPI = require("./libs/telegramAPI.js");
 var interface = require("./libs/interface.js"); 
@@ -10,6 +11,16 @@ const servicesAPI = require("./constants/servicesAPI.js");
 const messages = require("./constants/messages.js");
 const config = require("./constants/config.js");
 
+
+//Config LocalTunnel
+var tunnel = localtunnel(7821,function(err, tunnel){
+    if(err){
+        console.log("Erro no tunnel");
+        return;
+    }
+    data = [{key:"url=",tunnel.url+"/rest?"}]
+    telegramAPI.consumeAPI(servicesAPI.setWebhook,data,interface.show);  
+});
 
 const app = express()
 app.use( bodyParser.json() );
