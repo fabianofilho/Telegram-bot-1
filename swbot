@@ -150,8 +150,8 @@ app.all('/rest', function (req, res) {
 				}
 			break
 
-			case "/eai":
-				msg = "E lá vamos nós..."
+			case "/define":
+				msg = "Apresentação sintética dos resultados de investigações ou de estudos a respeito de uma questão. Tem, como objetivo principal, divulgar o assunto investigado, o referencial teórico utilizado, o método empregado e os resultados alcançados. Consiste, ainda, em tornar público os resultados do trabalho de pesquisa, não só como garantia da autoria, mas também como forma de manifestar atitudes e compreensão do estudo realizado sobre determinado tema."
 				data = [{key:"text=",value:msg},{key:"parse_mode=",value:"Markdown"},{key:"chat_id=",value:req.body.message.chat.id}]
 				telegramAPI.consumeAPI(servicesAPI.sendMessage,data,interface.show);
 				//Sending Image
@@ -163,7 +163,10 @@ app.all('/rest', function (req, res) {
   					});
 			break;
 
-			case "/calmai":
+			case "/sections":
+				msg = ": Resumo, Introdução incluindo os objetivos, Métodos, Resultados com tabelas e ﬁ guras, Discussão, Conclusão, e Referências Bibliográﬁcas" 
+				data = [{key:"text=",value:msg},{key:"parse_mode=",value:"Markdown"},{key:"chat_id=",value:req.body.message.chat.id}]
+				telegramAPI.consumeAPI(servicesAPI.sendMessage,data,interface.show);
 				//Sending Image
 				data_file = {path_img:config.tut_troll_path,chat_id:req.body.message.chat.id}
   				telegramAPI.uploadImage(data_file,function(result){
